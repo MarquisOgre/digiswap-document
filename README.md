@@ -1,11 +1,5 @@
 # DigiSwap Intro
 
-{% hint style="info" %}
-Whole docs site in under construction now.\
-**Please always refer English page**, not regional language pages as they may be oujt of sync.\
-\--- 25th Jan, Chef Nina 🦆
-{% endhint %}
-
 ![](<.gitbook/assets/masthead-twitter-3- (1).png>)
 
 {% hint style="success" %}
@@ -55,7 +49,7 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 ### Lottery
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
+**Millions of dollars** regularly go up for grabs on the DigiSwap Lottery.\
 Join as many as **11,000 daily players** for your chance to win big!
 
 ### NFT Collectibles
@@ -71,10 +65,10 @@ New rounds every 5 minutes!\\
 
 See for yourself:
 
-* Check out these PancakeSwap security audits:
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
+* Check out these DigiSwap security audits:
+  * [Certik’s security audit of DigiSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
+  * [Slowmist's security audit of DigiSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
+  * [Slowmist's Auto-DGP Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
   * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
