@@ -4,7 +4,7 @@ description: Guidlines and downloadable assets like the Digiswap logo SVG
 
 # Brand & Logos
 
-![](<.gitbook/assets/Frame 6.png>)
+![](<.gitbook/assets/BrandLogo.png>)
 
 👇[ Jump to logo download](brand.md#pancakeswap-logo-downloads)
 

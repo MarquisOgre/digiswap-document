@@ -1,6 +1,6 @@
 # Get BEP20 Tokens
 
-![](<../.gitbook/assets/docs masthead (10) (1).png>)
+![](<../.gitbook/assets/BEP20Tokens.png>)
 
 The native tokens of Binance Smart Chain (BSC) are **BEP20**.
 

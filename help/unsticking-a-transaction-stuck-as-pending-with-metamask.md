@@ -4,7 +4,7 @@ description: How to "unstick" any pending transactions that are stuck in your Me
 
 # Fixing Stuck Pending Transactions on MetaMask
 
-![](<../.gitbook/assets/docs masthead (12) (1).png>)
+![](<../.gitbook/assets/FixStuck.png>)
 
 If your transaction is stuck on pending in Metamask, and the “Cancel” button isn’t helping, you might need to use this method to clear your backlog.
 

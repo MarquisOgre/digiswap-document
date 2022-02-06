@@ -1,6 +1,6 @@
 # Connect Your Wallet to Digiswap
 
-![](<../.gitbook/assets/docs masthead (11) (1).png>)
+![](<../.gitbook/assets/ConnectWallet.png>)
 
 You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with Digiswap and you're good to go!
 
