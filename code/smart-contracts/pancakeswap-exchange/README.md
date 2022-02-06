@@ -1,2 +1,2 @@
-# PancakeSwap Exchange
+# Digiswap Exchange
 

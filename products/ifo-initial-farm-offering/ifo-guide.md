@@ -6,7 +6,7 @@
 Warning: this page is outdated. As we will be bringing several new updates to the IFO process over the coming weeks, we won't keep this page up to date for now: please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in instead.
 {% endhint %}
 
-An IFO on PancakeSwap is an Initial Farm Offering. IFOs let you get early access to PancakeSwap’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
+An IFO on Digiswap is an Initial Farm Offering. IFOs let you get early access to Digiswap’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
 
 IFOs are available for a very limited time. Get ready ahead of the event to make sure you can participate!
 
@@ -14,17 +14,17 @@ IFOs are available for a very limited time. Get ready ahead of the event to make
 
 Before you can join an IFO there are a few things you will need to do to get ready. Follow the steps below to make sure you're ready to buy when the IFO event goes live.
 
-### Create your PancakeSwap profile
+### Create your Digiswap profile
 
-To take part in an IFO, you'll need a PancakeSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.\
+To take part in an IFO, you'll need a Digiswap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total DGP supply down by burning a little DGP from each profile created.\
 \
 To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
 
-### Get CAKE-BNB Liquidity Tokens
+### Get DGP-BNB Liquidity Tokens
 
-Once you have a profile, you will also need to provide liquidity to get some CAKE-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO.\
+Once you have a profile, you will also need to provide liquidity to get some DGP-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO.\
 \
-To provide liquidity and get some CAKE-BNB LP Tokens, you can follow our How to Add/Remove Liquidity guide [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+To provide liquidity and get some DGP-BNB LP Tokens, you can follow our How to Add/Remove Liquidity guide [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
 
 ### Check on your progress
 
@@ -50,13 +50,13 @@ The **(blocks)** link will open the BscScan explorer in a new window at the star
 
 #### Use social media
 
-There isn’t a set time before an IFO goes live for the countdown to start, so check PancakeSwap’s official social media accounts for news about upcoming IFO times.
+There isn’t a set time before an IFO goes live for the countdown to start, so check Digiswap’s official social media accounts for news about upcoming IFO times.
 
 The countdown and announcements will give you plenty of time to prepare.
 
 ## **Once the IFO is live**
 
-While an IFO is live, you will have 1 hour to participate. If you have prepared your CAKE-BNB LP Tokens it doesn’t take long at all to buy the new token.
+While an IFO is live, you will have 1 hour to participate. If you have prepared your DGP-BNB LP Tokens it doesn’t take long at all to buy the new token.
 
 ### Checking the IFO is live
 
@@ -70,7 +70,7 @@ There are two sales available: Basic Sale and Unlimited Sale. It's possible to p
 
 #### **Basic Sale**
 
-The Basic Sale has a limited buy amount per user (about $100 USD in CAKE-BNB LP Tokens). Anyone can participate in the Basic Sale, and there are no fees to buy tokens this way.
+The Basic Sale has a limited buy amount per user (about $100 USD in DGP-BNB LP Tokens). Anyone can participate in the Basic Sale, and there are no fees to buy tokens this way.
 
 #### **Unlimited Sale**
 

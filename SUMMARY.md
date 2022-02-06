@@ -4,8 +4,8 @@
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
-  * [Using PancakeSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
-  * [Connect Your Wallet to PancakeSwap](get-started/connection-guide.md)
+  * [Using Digiswap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
+  * [Connect Your Wallet to Digiswap](get-started/connection-guide.md)
 * [Click Here for Help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting.md)
   * [General FAQ](help/faq.md)
@@ -31,7 +31,7 @@
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Syrup Pools](products/syrup-pool/README.md)
   * [How to Stake in Syrup Pools](products/syrup-pool/syrup-pool-guide.md)
-  * [Auto CAKE Syrup Pool](products/syrup-pool/auto-compounding.md)
+  * [Auto DGP Syrup Pool](products/syrup-pool/auto-compounding.md)
   * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-faq.md)
 * [🎟 Lottery v2](products/lottery/README.md)
   * [How to Play Lottery v2](products/lottery/lottery-guide.md)
@@ -55,9 +55,9 @@
 
 ## Tokenomics
 
-* [CAKE](tokenomics/cake/README.md)
-  * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
-  * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
+* [DGP](tokenomics/cake/README.md)
+  * [DGP Tokenomics](tokenomics/cake/cake-tokenomics.md)
+  * [Controlling DGP supply](tokenomics/cake/controlling-cake-supply.md)
 
 ## Developers <a href="#code" id="code"></a>
 
@@ -65,11 +65,11 @@
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Bug Bounty](code/bug-bounty.md)
 * [Smart Contracts](code/smart-contracts/README.md)
-  * [PancakeSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
+  * [Digiswap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
     * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
     * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
   * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
-  * [Auto CAKE Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
+  * [Auto DGP Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
   * [Prediction V2](code/smart-contracts/prediction-v2.md)
   * [Lottery v2](code/smart-contracts/lottery-v2.md)
 
