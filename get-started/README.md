@@ -16,8 +16,8 @@ Follow these guides to get everything set up to use Digiswap, or feel free to ju
 
 Once you have a wallet set up and connected to Digiswap, feel free to check our other how to guides below.
 
-[How to Trade](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide)\
-[How to Add/Remove Liquidity](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)\
+[How to Trade](https://docs.pancakeswap.finance/products/digiswap-exchange/trade-guide)\
+[How to Add/Remove Liquidity](https://docs.pancakeswap.finance/products/digiswap-exchange/liquidity-guide)\
 [How to Use Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)\
 [How to Stake in Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)\
 [How to Play the Lottery](https://docs.pancakeswap.finance/products/lottery/lottery-guide)\

@@ -25,7 +25,7 @@ During Sale:
 After Sale:
 
 1. When the sale is complete, claim the IFO tokens you've bought.
-2. Done! In the case of an [overflow](https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/\~/drafts/-MMK-KmBq5\_Mfs94Ul6x/core-products/ifo-initial-farm-offering#overflow) you can reclaim your remaining DGP tokens.
+2. Done! In the case of an [overflow](https://app.gitbook.com/@digiswap-1/s/pancakeswap/\~/drafts/-MMK-KmBq5\_Mfs94Ul6x/core-products/ifo-initial-farm-offering#overflow) you can reclaim your remaining DGP tokens.
 
 ## **What is the “Overflow” sale method?** <a href="#overflow" id="overflow"></a>
 

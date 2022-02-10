@@ -45,7 +45,7 @@ If a variant of a component needs to be created, use the corresponding component
 
 ```javascript
 import styled from 'styled-components'
-import { Button } from '@pancakeswap-libs/uikit'
+import { Button } from '@digiswap-libs/uikit'
 
 const NewButtonVariant = styled(Button)`
   // custom styles here
