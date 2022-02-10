@@ -25,41 +25,41 @@ See for yourself:
 
 You can stake your DGP in Digiswap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
 
-Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
+Read our [How to Stake in Syrup Pools guide](https://docs.digiswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
 Staking in Syrup Pools and farming with Yield Farming are both ways to earn more DGP by supporting Digiswap.
 
 Staking only needs some DGP to be added to a Syrup Pool to earn DGP or other tokens.\
-[Learn more about Syrup Pool staking.](https://docs.pancakeswap.finance/products/syrup-pool)
+[Learn more about Syrup Pool staking.](https://docs.digiswap.finance/products/syrup-pool)
 
 Farming is more complicated and needs LP Tokens to earn DGP.\
-[Learn more about Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
+[Learn more about Yield Farming.](https://docs.digiswap.finance/products/yield-farming)
 
 ## How do I farm?
 
-We have a [Yield Farming guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
+We have a [Yield Farming guide](https://docs.digiswap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
 
 ## Where can I view the Digiswap roadmap?
 
-You can [view our to-do list here, but don't call it a roadmap](https://docs.pancakeswap.finance/roadmap).
+You can [view our to-do list here, but don't call it a roadmap](https://docs.digiswap.finance/roadmap).
 
 ## How do I connect my wallet to Binance Smart Chain and Digiswap?
 
-We have a [Connect Your Wallet to Digiswap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
+We have a [Connect Your Wallet to Digiswap guide](https://docs.digiswap.finance/get-started/connection-guide) covering this in detail.
 
 ## What's the best wallet for Digiswap?
 
-It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.pancakeswap.finance/get-started/wallet-guide) that's right for you.
+It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.digiswap.finance/get-started/wallet-guide) that's right for you.
 
 ## Why is my transaction failing?
 
 You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
 
-Our [Troubleshooting Errors guide](https://docs.pancakeswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
+Our [Troubleshooting Errors guide](https://docs.digiswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
 
-You can also see our [Fixing Stuck Pending Transactions guide](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
+You can also see our [Fixing Stuck Pending Transactions guide](https://docs.digiswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
 
 ## When will you open more pools?
 
@@ -79,25 +79,25 @@ Please remember anyone can airdrop tokens to Digiswap users since every transact
 
 ## How can I report a bug?
 
-Learn about our [bug bounty and potential bounty payouts](https://docs.pancakeswap.finance/code/bug-bounty).
+Learn about our [bug bounty and potential bounty payouts](https://docs.digiswap.finance/code/bug-bounty).
 
 ## Where can I view smart contracts?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://docs.pancakeswap.finance/code/smart-contracts/finding-contracts).
+Learn how to find smart contracts on our [Finding Contracts page](https://docs.digiswap.finance/code/smart-contracts/finding-contracts).
 
 ## Why does it say I have no BNB balance?
 
-If you've already [transferred BNB into your Binance Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to Binance Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Binance Smart Chain (BSC) selected.
+If you've already [transferred BNB into your Binance Smart Chain-enabled wallet](https://docs.digiswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to Binance Smart Chain](https://docs.digiswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Binance Smart Chain (BSC) selected.
 
 ## How do I vote?
 
-To learn more about voting, you can [read our section on Voting](https://docs.pancakeswap.finance/products/voting), including voting guides.
+To learn more about voting, you can [read our section on Voting](https://docs.digiswap.finance/products/voting), including voting guides.
 
 ## What is the max supply of DGP?
 
 $DGP does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
 \
-Read this to [learn more about Digiswap's tokenomics](https://docs.pancakeswap.finance/tokenomics/cake).
+Read this to [learn more about Digiswap's tokenomics](https://docs.digiswap.finance/tokenomics/cake).
 
 ## What are the treasury funds used for?
 
@@ -117,9 +117,9 @@ Digiswap’s other smart contracts, like IFO and AutoPool, are protected as well
 
 ## Can I join the Digiswap team?
 
-Check the [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
+Check the [Become a Chef](https://docs.digiswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
 
-We advertise new positions we're looking to fill on our [official social media channels](https://docs.pancakeswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
+We advertise new positions we're looking to fill on our [official social media channels](https://docs.digiswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
 
 ## What is SYRUP?
 
@@ -127,5 +127,5 @@ SYRUP was a part of the staking process earlier in Digiswap's life. SYRUP was di
 
 ## I can't find an answer for my question. Where do I find an answer?
 
-If you can't find what you're looking for in Digiswap's documentation, ask your question on [Digiswap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
+If you can't find what you're looking for in Digiswap's documentation, ask your question on [Digiswap's official social media platforms](https://docs.digiswap.finance/contact-us/telegram) and someone will do their best to help you out.
 

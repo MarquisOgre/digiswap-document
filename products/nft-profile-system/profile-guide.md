@@ -35,7 +35,7 @@ For this example we’ll use Dollop.\
 
 4\. A new page will load saying “Choose collectible”. We’ll pick our Dollop we chose earlier. If you already own multiple NFTs you can choose one from a list of NFTs you own.
 
-If you face Oops! error, please check [troubleshooting](https://docs.pancakeswap.finance/help/troubleshooting#oops-we-couldnt-find-any-pancake-collectibles-in-your-wallet).
+If you face Oops! error, please check [troubleshooting](https://docs.digiswap.finance/help/troubleshooting#oops-we-couldnt-find-any-pancake-collectibles-in-your-wallet).
 
 ![](<../../.gitbook/assets/image (169).png>)
 
@@ -57,7 +57,7 @@ If you face Oops! error, please check [troubleshooting](https://docs.pancakeswap
 
 ![](<../../.gitbook/assets/image (174).png>)
 
-If you face "username keeps spinning" issue, please check [troubleshooting](https://docs.pancakeswap.finance/help/troubleshooting#checking-username-keeps-spinning).
+If you face "username keeps spinning" issue, please check [troubleshooting](https://docs.digiswap.finance/help/troubleshooting#checking-username-keeps-spinning).
 
 9\. Read the warning in red, and click the “I understand…” checkbox.
 

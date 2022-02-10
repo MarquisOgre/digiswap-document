@@ -13,7 +13,7 @@ DGP is the delicious token that powers the Digiswap ecosystem.
 Earn DGP from Farms and Syrup Pools, win it in the lottery, or [buy it on the exchange](../../products/digiswap-exchange/), then explore its use cases:
 
 * Stake it in [Syrup Pools](../../products/syrup-pool/) to earn free tokens
-* Use it in [Yield Farms](https://docs.pancakeswap.finance/products/yield-farming) to earn more DGP
+* Use it in [Yield Farms](https://docs.digiswap.finance/products/yield-farming) to earn more DGP
 * Buy Lottery tickets in the [Digiswap Lottery](../../products/lottery/)
 * Participate in [IFO Token Sales](../../products/ifo-initial-farm-offering/)
 * Create your [Pancake Profile](../../products/nft-profile-system/) and mint NFTs

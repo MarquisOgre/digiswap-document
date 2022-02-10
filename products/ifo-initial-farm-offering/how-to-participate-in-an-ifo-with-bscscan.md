@@ -11,7 +11,7 @@ Joining IFOs can be exciting and very rewarding. The [Digiswap website’s IFO p
 Currently, only MetaMask or WalletConnect wallets can interact directly with BscScan. WalletConnect is still in beta, so for now we recommend using MetaMask.&#x20;
 
 {% hint style="warning" %}
-Interacting directly with smart contracts is not something we’d recommend to beginners. If you’d like to join an IFO without the complicated steps, we have a [How to Participate in an IFO guide](https://docs.pancakeswap.finance/get-started/ifo-guide) to help you through the process using the Digiswap website.
+Interacting directly with smart contracts is not something we’d recommend to beginners. If you’d like to join an IFO without the complicated steps, we have a [How to Participate in an IFO guide](https://docs.digiswap.finance/get-started/ifo-guide) to help you through the process using the Digiswap website.
 {% endhint %}
 
 ## Before the IFO
@@ -20,11 +20,11 @@ Before you can join an IFO there are a few things you will need to do to get rea
 
 ### Create your Digiswap profile
 
-To take part in an IFO, you'll need a Digiswap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total DGP supply down by burning a little DGP from each profile created. To create a profile, you can follow our [How to Set Up an NFT Profile guide](https://docs.pancakeswap.finance/get-started/profile-guide).
+To take part in an IFO, you'll need a Digiswap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total DGP supply down by burning a little DGP from each profile created. To create a profile, you can follow our [How to Set Up an NFT Profile guide](https://docs.digiswap.finance/get-started/profile-guide).
 
 ### Get DGP-BNB Liquidity Tokens
 
-Once you have a profile, you will also need to provide liquidity to get some DGP-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO. To provide liquidity and get some DGP-BNB LP Tokens, you can follow our [How to Add/Remove Liquidity guide](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+Once you have a profile, you will also need to provide liquidity to get some DGP-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO. To provide liquidity and get some DGP-BNB LP Tokens, you can follow our [How to Add/Remove Liquidity guide](https://docs.digiswap.finance/get-started/liquidity-guide).
 
 ## Once the IFO is live
 
@@ -74,7 +74,7 @@ Now that you’ve approved the IFO to spend your Pancake LP Tokens, you’re rea
 
 ![](https://lh6.googleusercontent.com/185gWOjqWA\_gZLpyy8TSGdKtk7m-l3HSyXkzx883Cf3Cmnq7DAl6-wOnhn7knU\_-lKbyFsnEBXgPhbv7dyRzly0dDa81562jlXcapItkADA0AA5q4fJWnwtSFDsjHSxXD2EHO3pq)
 
-3\. Under the \_amount field you’ll see “\_pid”. This will tell the contract which sale you want to buy into between the Basic Sale and Unlimited Sale. If you’re not sure which sale to choose, you can read about them in [How to Participate in an IFO guide](https://docs.pancakeswap.finance/get-started/ifo-guide#which-type-of-sale-should-i-choose-basic-or-unlimited).
+3\. Under the \_amount field you’ll see “\_pid”. This will tell the contract which sale you want to buy into between the Basic Sale and Unlimited Sale. If you’re not sure which sale to choose, you can read about them in [How to Participate in an IFO guide](https://docs.digiswap.finance/get-started/ifo-guide#which-type-of-sale-should-i-choose-basic-or-unlimited).
 
 To buy into the Basic Sale, type 0 into the \_pid field.
 

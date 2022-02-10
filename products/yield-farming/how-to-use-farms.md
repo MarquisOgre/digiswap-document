@@ -47,7 +47,7 @@ Now that you've found a Farm to stake in, you will need to add liquidity to get 
 
 ![](<../../.gitbook/assets/image (35).png>)
 
-This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.pancakeswap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
+This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.digiswap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
 
 ## Putting your LP Tokens into a farm
 
@@ -123,6 +123,6 @@ You can see this fee in your wallet when confirming after clicking **Harvest**.
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use Digiswap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use Digiswap Syrup Pools](https://docs.digiswap.finance/get-started/syrup-pool-guide) to earn rewards.
 
 Happy farming!

@@ -145,7 +145,7 @@ If you do have an existing wallet to import, use the top option instead.
 
 And that’s it, all done!
 
-To connect to Binance Smart Chain and use Digiswap, you can follow the TokenPocket section of our Connect Your Wallet to Digiswap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
+To connect to Binance Smart Chain and use Digiswap, you can follow the TokenPocket section of our Connect Your Wallet to Digiswap guide [https://docs.digiswap.finance/get-started/connection-guide](https://docs.digiswap.finance/get-started/connection-guide).
 
 ### Getting private key from mobile to import to desktop
 
@@ -341,7 +341,7 @@ Please be extremely careful with how you handle your private keys. Giving your p
 
 ![](https://lh5.googleusercontent.com/g\_iZzJZAPhsBQUBgQqTvLO1HfuGnCGZDkRD3DFu4g4GPat901700Qk3aBx8Fx5AzY2PH7JYajGM4-4fXm6icPWB-8R5wQQst-W3NWJ6n0Rh\_bbPKXnXrO4h\_JEgu7wtey11EuCN-)
 
-And that’s it, all done! You can follow our [Connect Your Wallet to Digiswap guide](https://docs.pancakeswap.finance/get-started/connection-guide) to connect to Binance Smart Chain and Digiswap.
+And that’s it, all done! You can follow our [Connect Your Wallet to Digiswap guide](https://docs.digiswap.finance/get-started/connection-guide) to connect to Binance Smart Chain and Digiswap.
 {% endtab %}
 {% endtabs %}
 

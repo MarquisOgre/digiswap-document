@@ -383,7 +383,7 @@ This happens when you try to connect via a browser extension like MetaMask or Bi
 
 {% tabs %}
 {% tab title="Solution" %}
-Install the official browser extension to connect, or read our guide on [how to connect a wallet to Digiswap](https://docs.pancakeswap.finance/get-started/connection-guide).
+Install the official browser extension to connect, or read our guide on [how to connect a wallet to Digiswap](https://docs.digiswap.finance/get-started/connection-guide).
 {% endtab %}
 {% endtabs %}
 

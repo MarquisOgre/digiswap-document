@@ -8,23 +8,23 @@ Using anything new can be a bit of a challenge. Don't worry though, we've create
 
 Follow these guides to get everything set up to use Digiswap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-[Create a Wallet](https://docs.pancakeswap.finance/get-started/wallet-guide)\
-[Get BEP20 Tokens](https://docs.pancakeswap.finance/get-started/bep20-guide)\
-[Connect Your Wallet to Digiswap](https://docs.pancakeswap.finance/get-started/connection-guide)
+[Create a Wallet](https://docs.digiswap.finance/get-started/wallet-guide)\
+[Get BEP20 Tokens](https://docs.digiswap.finance/get-started/bep20-guide)\
+[Connect Your Wallet to Digiswap](https://docs.digiswap.finance/get-started/connection-guide)
 
 ## Guides for using Digiswap features
 
 Once you have a wallet set up and connected to Digiswap, feel free to check our other how to guides below.
 
-[How to Trade](https://docs.pancakeswap.finance/products/digiswap-exchange/trade-guide)\
-[How to Add/Remove Liquidity](https://docs.pancakeswap.finance/products/digiswap-exchange/liquidity-guide)\
-[How to Use Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)\
-[How to Stake in Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)\
-[How to Play the Lottery](https://docs.pancakeswap.finance/products/lottery/lottery-guide)\
-[How to Use Prediction](https://docs.pancakeswap.finance/products/prediction/prediction-guide)\
-[How to Participate in an IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
-[How to Set Up an NFT Profile](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
-[How to Vote](https://docs.pancakeswap.finance/products/voting/voting-guide)
+[How to Trade](https://docs.digiswap.finance/products/digiswap-exchange/trade-guide)\
+[How to Add/Remove Liquidity](https://docs.digiswap.finance/products/digiswap-exchange/liquidity-guide)\
+[How to Use Farms](https://docs.digiswap.finance/products/yield-farming/how-to-use-farms)\
+[How to Stake in Syrup Pools](https://docs.digiswap.finance/products/syrup-pool/syrup-pool-guide)\
+[How to Play the Lottery](https://docs.digiswap.finance/products/lottery/lottery-guide)\
+[How to Use Prediction](https://docs.digiswap.finance/products/prediction/prediction-guide)\
+[How to Participate in an IFO](https://docs.digiswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
+[How to Set Up an NFT Profile](https://docs.digiswap.finance/products/nft-profile-system/profile-guide)\
+[How to Vote](https://docs.digiswap.finance/products/voting/voting-guide)
 
 Check the menu for more documentation on the range of Digiswap features and services, including more advanced guides.
 

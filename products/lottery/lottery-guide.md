@@ -5,7 +5,7 @@
 Digiswap's Lottery is not only a good way to make stacks of DGP, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
 
 {% hint style="info" %}
-The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge DGP jackpots to get your mouth watering. Learn more about [Digiswap Lottery v2 here](https://docs.pancakeswap.finance/products/lottery).
+The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge DGP jackpots to get your mouth watering. Learn more about [Digiswap Lottery v2 here](https://docs.digiswap.finance/products/lottery).
 {% endhint %}
 
 ## Deciding if you'd like to enter a round

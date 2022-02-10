@@ -10,11 +10,11 @@ We have broken the help topic down into sections to help you find what you're af
 
 ### Troubleshooting Errors
 
-The [Troubleshooting Errors page](https://docs.pancakeswap.finance/help/troubleshooting) has a collection of errors users may run into while using Digiswap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
+The [Troubleshooting Errors page](https://docs.digiswap.finance/help/troubleshooting) has a collection of errors users may run into while using Digiswap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
 
 ### General FAQ
 
-The [General FAQ page](https://docs.pancakeswap.finance/help/faq) answers the common questions we get from Digiswap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
+The [General FAQ page](https://docs.digiswap.finance/help/faq) answers the common questions we get from Digiswap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
 
 ### Other Guides
 

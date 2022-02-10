@@ -22,5 +22,5 @@ By reducing the amount of DGP made per block, we slow inflation. This has alread
 
 ### Deflationary mechanisms
 
-Regular token burns ([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) are built into many of Digiswap's products (like a 10% burn of DGP spent on lottery tickets), with more on the way. Check the **** [**DGP Tokenomics page**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) **** for details on present and upcoming deflationary mechanisms.
+Regular token burns ([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) are built into many of Digiswap's products (like a 10% burn of DGP spent on lottery tickets), with more on the way. Check the **** [**DGP Tokenomics page**](https://docs.digiswap.finance/tokenomics/cake/cake-tokenomics) **** for details on present and upcoming deflationary mechanisms.
 

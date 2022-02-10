@@ -6,7 +6,7 @@ description: 'Syrup Pools: the simplest way to earn on Digiswap'
 
 ![](<../../.gitbook/assets/docs masthead (15) (1).png>)
 
-Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn DGP or other tokens while you sleep!
+Staking in [Syrup Pools](https://docs.digiswap.finance/products/syrup-pool) lets you earn DGP or other tokens while you sleep!
 
 It's simpler than farming with Digiswap's Yield Farms, because unlike the Farms, you only need to stake **one token** to start earning: usually DGP.
 

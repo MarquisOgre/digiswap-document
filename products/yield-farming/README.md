@@ -4,7 +4,7 @@
 
 Yield Farms allow users to earn DGP while supporting Digiswap by staking LP Tokens.
 
-Check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
+Check out our [How to Use Farms guide](https://docs.digiswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
 
 Learn [how to find Farm smart contracts](./)
 

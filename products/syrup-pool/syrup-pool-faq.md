@@ -92,7 +92,7 @@ There are three main types of Syrup Pools.
 2. Stake DGP, earn other tokens. 
 3. Stake other tokens, earn DGP
 
-The rewards for the "Stake DGP, earn DGP" Syrup Pools come from the [DGP emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of DGP tokens are allocated as rewards for these pools.
+The rewards for the "Stake DGP, earn DGP" Syrup Pools come from the [DGP emissions](https://docs.digiswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of DGP tokens are allocated as rewards for these pools.
 
 The rewards for the "Stake DGP, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
 

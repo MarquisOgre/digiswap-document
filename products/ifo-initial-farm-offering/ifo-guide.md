@@ -18,13 +18,13 @@ Before you can join an IFO there are a few things you will need to do to get rea
 
 To take part in an IFO, you'll need a Digiswap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total DGP supply down by burning a little DGP from each profile created.\
 \
-To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
+To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.digiswap.finance/get-started/profile-guide).
 
 ### Get DGP-BNB Liquidity Tokens
 
 Once you have a profile, you will also need to provide liquidity to get some DGP-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO.\
 \
-To provide liquidity and get some DGP-BNB LP Tokens, you can follow our How to Add/Remove Liquidity guide [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+To provide liquidity and get some DGP-BNB LP Tokens, you can follow our How to Add/Remove Liquidity guide [here](https://docs.digiswap.finance/get-started/liquidity-guide).
 
 ### Check on your progress
 
@@ -132,6 +132,6 @@ Confirm the action with your wallet. You'll now have your new tokens. Congratula
 
 Now that you've got your shiny new tokens, you can put them to work for you!
 
-You can add liquidity for your token to receive LP Tokens. Your LP Tokens will let you collect trading fees for your pair. Read about adding liquidity [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+You can add liquidity for your token to receive LP Tokens. Your LP Tokens will let you collect trading fees for your pair. Read about adding liquidity [here](https://docs.digiswap.finance/get-started/liquidity-guide).
 
-If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.pancakeswap.finance/products/yield-farming/farms).\
+If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.digiswap.finance/products/yield-farming/farms).\
