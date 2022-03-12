@@ -1,8 +1,8 @@
-# Auto DIGIS Syrup Pool
+# Auto DIGIS Sweet Pool
 
 ## Stake DIGIS, earn DIGIS!
 
-You've now got two delicious flavors of DIGIS-DIGIS Syrup Pool to choose from: Auto-compounding, and Manual. Read on to learn more!
+You've now got two delicious flavors of DIGIS-DIGIS Sweet Pool to choose from: Auto-compounding, and Manual. Read on to learn more!
 
 ![Auto DIGIS & Manual DIGIS Pools](<../../.gitbook/assets/auto and manual pools.png>)
 
@@ -16,18 +16,18 @@ But there are some differences:
 
 * You need to harvest or compound (reinvest) your DIGIS by yourself. That means returning to the site, tapping buttons, and using a bit of BNB for transaction fees.
 * Interest is displayed as APR, which doesn’t include compounding.
-* Deposits [SYRUP Token](syrup-pool-faq.md#whats-syrup-token) to your wallet upon staking
+* Deposits [SYRUP Token](sweet-pool-faq.md#whats-sweet-token) to your wallet upon staking
 
 **Auto DIGIS**
 
-* Stake your DIGIS and forget about it! The DIGIS you stake in this Syrup Pool will be automatically compounded (reinvested) for you, minus a small fee.
+* Stake your DIGIS and forget about it! The DIGIS you stake in this Sweet Pool will be automatically compounded (reinvested) for you, minus a small fee.
 * The “automatic” compounding function is triggered by other users who get a small bounty for triggering it.
 * Interest is displayed as APY, which includes compounding.
 * A small performance fee is subtracted from your earnings each time the pool is automatically compounded. See below.
 * An unstaking fee applies when you unstake within 3 days of manually staking. See below.
 * Does not deposit SYRUP to your wallet upon staking
 
-### What are the fees for the Auto DIGIS Syrup Pool?
+### What are the fees for the Auto DIGIS Sweet Pool?
 
 **Deposit fee**
 
@@ -52,7 +52,7 @@ The DIGIS collected via the unstaking fee and performance fee is **burned every 
 This is a good thing for DIGIS holders because it reduces the overall amount of DIGIS tokens in existence, which helps reduce inflation.
 {% endhint %}
 
-### What's the best way to use the Auto DIGIS Syrup Pool? <a href="#docs-internal-guid-3b1f91a6-7fff-fc76-976a-3a06bada2520" id="docs-internal-guid-3b1f91a6-7fff-fc76-976a-3a06bada2520"></a>
+### What's the best way to use the Auto DIGIS Sweet Pool? <a href="#docs-internal-guid-3b1f91a6-7fff-fc76-976a-3a06bada2520" id="docs-internal-guid-3b1f91a6-7fff-fc76-976a-3a06bada2520"></a>
 
 Simple: stake your DIGIS, but only withdraw after 72 hours (if you need to). This way you only pay the performance fee, and not the unstaking fee.
 

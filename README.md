@@ -30,14 +30,14 @@ Unlike centralized exchanges like Binance or Coinbase, DigiSwap doesn’t hold y
 
 > Earn DIGIS and other tokens for free with super high interest rates.
 
-### Earn tokens with Syrup Pools
+### Earn tokens with Sweet Pools
 
 Stake DIGIS, earn free tokens. It’s really that easy.\
 DIGIS holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
 
 ### Earn DIGIS with Yield Farms
 
-Stake LP tokens, earn DIGIS. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+Stake LP tokens, earn DIGIS. You take on a little more exposure to market fluctuations than with the Sweet Pools, but can earn higher APR to offset the risk.
 
 ### Earn Trading Fees
 

@@ -2,15 +2,15 @@
 
 ![](<../.gitbook/assets/docs masthead (21).png>)
 
-## Farms and Syrup Pools
+## Farms and Sweet Pools
 
 Farms incentivize users to provide liquidity for your trading pair by distributing DIGIS to your pair's LP Token holders.
 
-Syrup Pools are a way of distributing your tokens to BSC users who stake DIGIS in the pool.
+Sweet Pools are a way of distributing your tokens to BSC users who stake DIGIS in the pool.
 
-These two products go hand-in-paw on Digiswap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
+These two products go hand-in-paw on Digiswap: when a project provides their tokens for a Sweet Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
-**​**[**Apply to run a Farm or Syrup Pool**](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)**​**
+**​**[**Apply to run a Farm or Sweet Pool**](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)**​**
 
 * Please don't email us to apply - we only respond to applications via the application form.&#x20;
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
@@ -27,7 +27,7 @@ A Core Farm is usually offered to projects who have shown excellent trading volu
 
 Qualifying criteria for Community Farms and Core Farms/Pools are based on our internal review process. We don’t publish them externally. If you’re not eligible for a Core Farm, we may invite you to apply for a Community Farm instead.
 
-### Can I get a larger Farm multiplier? Or can I extend my Syrup Pool and Farm?
+### Can I get a larger Farm multiplier? Or can I extend my Sweet Pool and Farm?
 
 If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing Digiswap communication channels for enquiries.
 

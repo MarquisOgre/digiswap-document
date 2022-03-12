@@ -45,8 +45,8 @@ Some items didn't make it into the "Coming Up" section due to security or confid
   * DIGIS Staking
   * Core Pools
   * Community Pools: Host BSC community project Pools, support with 0.1-0.2x DIGIS farms
-  * Auto-compounding DIGIS-DIGIS Syrup Pool
-  * Syrup Pool Boosts
+  * Auto-compounding DIGIS-DIGIS Sweet Pool
+  * Sweet Pool Boosts
   * APR/APY Calculator v2
   * Harvest all
 
@@ -77,8 +77,8 @@ Some items didn't make it into the "Coming Up" section due to security or confid
 ### Site Upgrades / DIGIS / Other Products
 
 * Pending
-  * MasterChef v2: Ready for Future Products and New Tokenomics
-  * IFO 3.1: Private Sales & New IFO Syrup Pool
+  * DigiMaster v2: Ready for Future Products and New Tokenomics
+  * IFO 3.1: Private Sales & New IFO Sweet Pool
   * Personal dashboard
   * Portfolio
   * Overview pages for Earn, Win

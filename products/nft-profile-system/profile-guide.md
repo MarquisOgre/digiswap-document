@@ -46,7 +46,7 @@ If you face Oops! error, please check [troubleshooting](https://docs.digiswap.fi
 
 ![](<../../.gitbook/assets/image (171).png>)
 
-6\. On the next page you will be asked to join a team. Joining a team lets you compete in special events to earn special, limited rewards! Choose a team under “Join a Team”. For this example we will choose Syrup Storm.
+6\. On the next page you will be asked to join a team. Joining a team lets you compete in special events to earn special, limited rewards! Choose a team under “Join a Team”. For this example we will choose Sweet Storm.
 
 7\. Click the **Next Step** button.\
 ****

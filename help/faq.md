@@ -23,16 +23,16 @@ See for yourself:
 
 ## How can I stake DIGIS?
 
-You can stake your DIGIS in Digiswap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
+You can stake your DIGIS in Digiswap Sweet Pools. Visit the [Sweet Pools page](https://pancakeswap.finance/pools).
 
-Read our [How to Stake in Syrup Pools guide](https://docs.digiswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
+Read our [How to Stake in Sweet Pools guide](https://docs.digiswap.finance/products/sweet-pool/sweet-pool-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
-Staking in Syrup Pools and farming with Yield Farming are both ways to earn more DIGIS by supporting Digiswap.
+Staking in Sweet Pools and farming with Yield Farming are both ways to earn more DIGIS by supporting Digiswap.
 
-Staking only needs some DIGIS to be added to a Syrup Pool to earn DIGIS or other tokens.\
-[Learn more about Syrup Pool staking.](https://docs.digiswap.finance/products/syrup-pool)
+Staking only needs some DIGIS to be added to a Sweet Pool to earn DIGIS or other tokens.\
+[Learn more about Sweet Pool staking.](https://docs.digiswap.finance/products/sweet-pool)
 
 Farming is more complicated and needs LP Tokens to earn DIGIS.\
 [Learn more about Yield Farming.](https://docs.digiswap.finance/products/yield-farming)
@@ -111,7 +111,7 @@ Analytics: [https://pancakeswap.info/](https://pancakeswap.info)
 
 ## Is Digiswap protected from flashloan attacks?
 
-Digiswap's vault has anti-flashloan protection. Digiswap’s DIGIS token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, DIGIS token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
+Digiswap's vault has anti-flashloan protection. Digiswap’s DIGIS token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, DIGIS token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of DigiMaster contract.
 
 Digiswap’s other smart contracts, like IFO and AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
 

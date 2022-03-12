@@ -1,4 +1,4 @@
-# Auto DIGIS Syrup Pool \(CakeVault\)
+# Auto DIGIS Sweet Pool \(CakeVault\)
 
 ## Contract info
 

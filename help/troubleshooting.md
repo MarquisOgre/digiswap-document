@@ -211,7 +211,7 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 {% endtab %}
 {% endtabs %}
 
-## **Issues with Syrup Pools**
+## **Issues with Sweet Pools**
 
 ### BEP20: burn amount exceeds balance
 
@@ -244,7 +244,7 @@ This will unstake your staked tokens and lose any uncollected DIGIS yield.
 {% tab title="Reason" %}
 To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake DIGIS Earn DIGIS” pool.
 
-This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to DIGIS when you stake in the DIGIS-DIGIS Syrup Pool. SYRUP must be burned at a 1:1 ratio to DIGIS when calling leaveStaking (unstaking your DIGIS from the pool), so if you don't have enough, you can't unstake from the pool.
+This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to DIGIS when you stake in the DIGIS-DIGIS Sweet Pool. SYRUP must be burned at a 1:1 ratio to DIGIS when calling leaveStaking (unstaking your DIGIS from the pool), so if you don't have enough, you can't unstake from the pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 
@@ -296,7 +296,7 @@ This happens when you set a limit on your spend allowance when you first approve
 
 > Fail with error 'BEP20: transfer amount exceeds balance'
 
-You're probably trying to unstake from a Syrup Pool with low rewards in it. Solution below.
+You're probably trying to unstake from a Sweet Pool with low rewards in it. Solution below.
 
 If not, you may be trying to send tokens that you don't have in your wallet (for example, trying to send a token that is already assigned to a pending transaction). In this case, just make sure you have the tokens you're trying to use.
 
@@ -306,7 +306,7 @@ Firstly,[ let the team know](../contact-us/telegram.md) which pool you're trying
 
 You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
-1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
+1. Find the contract address of the Sweet Pool you're trying to unstake from. You can find it in your wallet's transaction log.
 2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
 3. Select **Write Contract.**
 4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
@@ -320,7 +320,7 @@ This will unstake your staked tokens and lose any uncollected yield.
 {% endtab %}
 
 {% tab title="Reason" %}
-This error tends to appear when you're trying to unstake from an old Syrup Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
+This error tends to appear when you're trying to unstake from an old Sweet Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
 {% endtab %}
 {% endtabs %}
 

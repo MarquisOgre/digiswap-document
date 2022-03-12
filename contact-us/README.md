@@ -8,7 +8,7 @@
 
 ### [List a Token](business-partnerships.md#exchange)
 
-### [Apply for Yield Farm or Syrup Pool](business-partnerships.md#farms-and-syrup-pools)
+### [Apply for Yield Farm or Sweet Pool](business-partnerships.md#farms-and-sweet-pools)
 
 ### [Apply for an IFO (Token Sale)](business-partnerships.md#ifos-token-sales)
 

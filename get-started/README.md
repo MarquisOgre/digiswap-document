@@ -19,7 +19,7 @@ Once you have a wallet set up and connected to Digiswap, feel free to check our 
 [How to Trade](https://docs.digiswap.finance/products/digiswap-exchange/trade-guide)\
 [How to Add/Remove Liquidity](https://docs.digiswap.finance/products/digiswap-exchange/liquidity-guide)\
 [How to Use Farms](https://docs.digiswap.finance/products/yield-farming/how-to-use-farms)\
-[How to Stake in Syrup Pools](https://docs.digiswap.finance/products/syrup-pool/syrup-pool-guide)\
+[How to Stake in Sweet Pools](https://docs.digiswap.finance/products/sweet-pool/sweet-pool-guide)\
 [How to Play the Lottery](https://docs.digiswap.finance/products/lottery/lottery-guide)\
 [How to Use Prediction](https://docs.digiswap.finance/products/prediction/prediction-guide)\
 [How to Participate in an IFO](https://docs.digiswap.finance/products/ifo-initial-farm-offering/ifo-guide)\

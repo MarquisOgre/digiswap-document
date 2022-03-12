@@ -10,9 +10,9 @@
 
 DIGIS is the delicious token that powers the Digiswap ecosystem.
 
-Earn DIGIS from Farms and Syrup Pools, win it in the lottery, or [buy it on the exchange](../../products/digiswap-exchange/), then explore its use cases:
+Earn DIGIS from Farms and Sweet Pools, win it in the lottery, or [buy it on the exchange](../../products/digiswap-exchange/), then explore its use cases:
 
-* Stake it in [Syrup Pools](../../products/syrup-pool/) to earn free tokens
+* Stake it in [Sweet Pools](../../products/sweet-pool/) to earn free tokens
 * Use it in [Yield Farms](https://docs.digiswap.finance/products/yield-farming) to earn more DIGIS
 * Buy Lottery tickets in the [Digiswap Lottery](../../products/lottery/)
 * Participate in [IFO Token Sales](../../products/ifo-initial-farm-offering/)

@@ -6,7 +6,7 @@ This page provides links or locations for Digiswap's smart contracts.
 
 The following links will take you to the BscScan page for Digiswap's main smart contracts.
 
-* [Digiswap: Main Staking Contract/MasterChef](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e)
+* [Digiswap: Main Staking Contract/DigiMaster](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e)
 * [Digiswap: Factory v2](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73)
 * [Digiswap: Router v2](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)
 * [Digiswap: Lottery v2](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)

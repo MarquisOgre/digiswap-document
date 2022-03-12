@@ -9,8 +9,8 @@
 
 ### Your Responsibilities
 
-* Coordinate with partners to ensure a healthy Farm/Syrup Pool and IFO pipeline
-* Review and conduct due diligence on projects that apply for Farm/Syrup Pools and IFOs
+* Coordinate with partners to ensure a healthy Farm/Sweet Pool and IFO pipeline
+* Review and conduct due diligence on projects that apply for Farm/Sweet Pools and IFOs
 * Liaise with project teams to explore potential partnership opportunities
 * Execute operational matters relating to Digiswap products
 * Implement best practices between the business development team & the wider team

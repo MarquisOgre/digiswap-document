@@ -14,14 +14,14 @@ Sounds… “sweet”, right? 😏
 
 **SYRUP Pool: where sweet, new tokens meet the Digiswap community!**
 
-Syrup Pool allows Binance Smart Chain projects to bootstrap adoption by distributing a portion of their tokens to SYRUP token holders.
+Sweet Pool allows Binance Smart Chain projects to bootstrap adoption by distributing a portion of their tokens to SYRUP token holders.
 
-Syrup Pool will be split into two sections: Core and Community.
+Sweet Pool will be split into two sections: Core and Community.
 
 * Core will be initially selected by the Digiswap team.
 * Community will be projects that pass a community vote on the governance portal.
 
-Note that any project will be able to distribute tokens via Syrup Pool but only projects that win a vote would be listed on the swap interface as a default option \(in order to discourage scams\).
+Note that any project will be able to distribute tokens via Sweet Pool but only projects that win a vote would be listed on the swap interface as a default option \(in order to discourage scams\).
 
 ![Image for post](https://miro.medium.com/max/3200/0*MkaAxlEeCfLlaoMt)
 
@@ -33,7 +33,7 @@ Projects will also receive an immediate default listing on the Digiswap interfac
 
 **Extending the utility of SYRUP tokens**
 
-Governance, collecting fees, stacking DIGIS block rewards and the \(upcoming\) Golden Syrup lottery are some of the SYRUP token’s core utility functions… for now.
+Governance, collecting fees, stacking DIGIS block rewards and the \(upcoming\) Golden Sweet lottery are some of the SYRUP token’s core utility functions… for now.
 
 With SYRUP Pool, a new function has been offered for SYRUP holders in Digiswap: adding the toppings to $SYRUP and the $DIGIS.
 
