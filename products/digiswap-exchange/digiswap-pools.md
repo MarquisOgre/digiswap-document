@@ -6,9 +6,9 @@ When you add your token to a Liquidity Pool you will receive Liquidity Provider 
 
 ## LP Tokens
 
-As an example, if you deposited **DGP** and **BNB** into a Liquidity Pool, you'd receive **DGP-BNB LP** tokens.
+As an example, if you deposited **DIGIS** and **BNB** into a Liquidity Pool, you'd receive **DIGIS-BNB LP** tokens.
 
-The number of LP tokens you receive represents your portion of the DGP-BNB Liquidity Pool.&#x20;
+The number of LP tokens you receive represents your portion of the DIGIS-BNB Liquidity Pool.&#x20;
 
 You can also redeem your funds at any time by removing your liquidity.
 
@@ -22,14 +22,14 @@ Whenever someone trades on Digiswap, the trader pays a 0.25% fee, **of which 0.1
 
 For example:
 
-* There are 10 LP tokens representing 10 DGP and 10 BNB tokens.
-* 1 LP token = 1 DGP + 1 BNB
-* Someone trades 10 DGP for 10 BNB.
-* Someone else trades 10 BNB for 10 DGP.
-* The DGP/BNB liquidity pool now has 10.017 DGP and 10.017 BNB.
-* Each LP token is now worth 1.00017 DGP + 1.00017 BNB.
+* There are 10 LP tokens representing 10 DIGIS and 10 BNB tokens.
+* 1 LP token = 1 DIGIS + 1 BNB
+* Someone trades 10 DIGIS for 10 BNB.
+* Someone else trades 10 BNB for 10 DIGIS.
+* The DIGIS/BNB liquidity pool now has 10.017 DIGIS and 10.017 BNB.
+* Each LP token is now worth 1.00017 DIGIS + 1.00017 BNB.
 
-To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [DGP Farms](https://pancakeswap.finance/farms), while still earning your 0.17% trading fee reward.
+To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [DIGIS Farms](https://pancakeswap.finance/farms), while still earning your 0.17% trading fee reward.
 
 ## Impermanent Loss
 

@@ -1,6 +1,6 @@
 # General FAQ
 
-![](<../.gitbook/assets/docs masthead (17).png>)
+![](<../.gitbook/assets/GeneralFAQ.png>)
 
 This FAQ page answers some of the more commonly asked questions from the Digiswap community.
 
@@ -11,7 +11,7 @@ See for yourself:
 * Check out these Digiswap security audits:&#x20;
   * [Certik’s security audit of Digiswap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
   * [Slowmist's security audit of Digiswap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20Digiswap.pdf)
-  * [Slowmist's Auto-DGP Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
+  * [Slowmist's Auto-DIGIS Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
   * [Peckshield's Lottery V2 Audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
   * [Slowmist's Lottery V2 Audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20Digiswap%20Lottery.pdf)
 * Transparent:
@@ -21,20 +21,20 @@ See for yourself:
   * The chefs use multisig for all contracts.
   * Our contracts’ time-lock gives you peace of mind.
 
-## How can I stake DGP?
+## How can I stake DIGIS?
 
-You can stake your DGP in Digiswap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
+You can stake your DIGIS in Digiswap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
 
 Read our [How to Stake in Syrup Pools guide](https://docs.digiswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
-Staking in Syrup Pools and farming with Yield Farming are both ways to earn more DGP by supporting Digiswap.
+Staking in Syrup Pools and farming with Yield Farming are both ways to earn more DIGIS by supporting Digiswap.
 
-Staking only needs some DGP to be added to a Syrup Pool to earn DGP or other tokens.\
+Staking only needs some DIGIS to be added to a Syrup Pool to earn DIGIS or other tokens.\
 [Learn more about Syrup Pool staking.](https://docs.digiswap.finance/products/syrup-pool)
 
-Farming is more complicated and needs LP Tokens to earn DGP.\
+Farming is more complicated and needs LP Tokens to earn DIGIS.\
 [Learn more about Yield Farming.](https://docs.digiswap.finance/products/yield-farming)
 
 ## How do I farm?
@@ -93,9 +93,9 @@ If you've already [transferred BNB into your Binance Smart Chain-enabled wallet]
 
 To learn more about voting, you can [read our section on Voting](https://docs.digiswap.finance/products/voting), including voting guides.
 
-## What is the max supply of DGP?
+## What is the max supply of DIGIS?
 
-$DGP does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
+$DIGIS does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
 \
 Read this to [learn more about Digiswap's tokenomics](https://docs.digiswap.finance/tokenomics/cake).
 
@@ -111,7 +111,7 @@ Analytics: [https://pancakeswap.info/](https://pancakeswap.info)
 
 ## Is Digiswap protected from flashloan attacks?
 
-Digiswap's vault has anti-flashloan protection. Digiswap’s DGP token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, DGP token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
+Digiswap's vault has anti-flashloan protection. Digiswap’s DIGIS token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, DIGIS token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
 
 Digiswap’s other smart contracts, like IFO and AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
 

@@ -2,13 +2,13 @@
 
 **Imagine:**
 
-1. You STAKE your DGP to get SYRUP
+1. You STAKE your DIGIS to get SYRUP
 2. Now you are earning a portion of 25% of each block reward
 3. Now you stake that SYRUP and start earning tokens from brand new BSC projects
 
-This is galaxy mega brain DGP compounding.
+This is galaxy mega brain DIGIS compounding.
 
-Your DGP is now pulling in **multiple** income streams.
+Your DIGIS is now pulling in **multiple** income streams.
 
 Sounds… “sweet”, right? 😏
 
@@ -33,7 +33,7 @@ Projects will also receive an immediate default listing on the Digiswap interfac
 
 **Extending the utility of SYRUP tokens**
 
-Governance, collecting fees, stacking DGP block rewards and the \(upcoming\) Golden Syrup lottery are some of the SYRUP token’s core utility functions… for now.
+Governance, collecting fees, stacking DIGIS block rewards and the \(upcoming\) Golden Syrup lottery are some of the SYRUP token’s core utility functions… for now.
 
-With SYRUP Pool, a new function has been offered for SYRUP holders in Digiswap: adding the toppings to $SYRUP and the $DGP.
+With SYRUP Pool, a new function has been offered for SYRUP holders in Digiswap: adding the toppings to $SYRUP and the $DIGIS.
 

@@ -25,5 +25,5 @@ The Digiswap bug bounty program is focused around our smart contracts, websites,
 
 \*XSS reports are restricted to those that have an impact of prompting a user to sign a transaction or a redirect.
 
-All payouts are done by the **Digiswap** team and are pegged to the **USD** values set here and are payable in **DGP** or **BUSD**.
+All payouts are done by the **Digiswap** team and are pegged to the **USD** values set here and are payable in **DIGIS** or **BUSD**.
 

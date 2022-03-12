@@ -1,10 +1,10 @@
-# DGP
+# DIGIS
 
-![DGP Token](../../.gitbook/assets/icon-square-512%20%281%29.png)
+![DIGIS Token](../../.gitbook/assets/icon-square-512%20%281%29.png)
 
 \*\*\*\*
 
-**Token:** DGP
+**Token:** DIGIS
 
 **Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82) 
 
@@ -12,13 +12,13 @@
 
 **Emission rate:** 
 
-* **Reward per block -**  40 DGP                                                                                                       ****
-* **Daily emission \(Based on 30k blocks per day\) -**  1,200,000 DGP per day
+* **Reward per block -**  40 DIGIS                                                                                                       ****
+* **Daily emission \(Based on 30k blocks per day\) -**  1,200,000 DIGIS per day
 
 **Distribution:**
 
-* **Farmers -** 75% of the rewards per block \(30 DGP\)
-* **SYRUP holders -** 25% of the rewards per block \(10 DGP\)
-* **Farmers daily -** 900,000 DGP \(based on 30k blocks per day\)
-* **SYRUP holders daily -** 300,000 DGP \(based on 30k blocks per day\)
+* **Farmers -** 75% of the rewards per block \(30 DIGIS\)
+* **SYRUP holders -** 25% of the rewards per block \(10 DIGIS\)
+* **Farmers daily -** 900,000 DIGIS \(based on 30k blocks per day\)
+* **SYRUP holders daily -** 300,000 DIGIS \(based on 30k blocks per day\)
 

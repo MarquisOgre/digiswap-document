@@ -4,7 +4,7 @@ description: Common error messages. Use the sidebar ➡️to jump to the error y
 
 # Troubleshooting Errors
 
-![](<../.gitbook/assets/docs masthead (16).png>)
+![](<../.gitbook/assets/TrobleShoot.png>)
 
 Sometimes you may find yourself facing a problem that doesn't have a clear solution. These troubleshooting tips may help you solve problems you run into.
 
@@ -217,13 +217,13 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 
 > Fail with error 'BEP20: burn amount exceeds balance'
 
-You don't have enough SYRUP in your wallet to unstake from the DGP-DGP pool.
+You don't have enough SYRUP in your wallet to unstake from the DIGIS-DIGIS pool.
 
 {% tabs %}
 {% tab title="Solution 1" %}
-**Get at least as much SYRUP as the amount of DGP that you’re trying to unstake.**
+**Get at least as much SYRUP as the amount of DIGIS that you’re trying to unstake.**
 
-1. Buy SYRUP on the exchange. If you want to unstake 100 DGP, you need at least 100 SYRUP.
+1. Buy SYRUP on the exchange. If you want to unstake 100 DIGIS, you need at least 100 SYRUP.
 2. Try unstaking again.
 {% endtab %}
 
@@ -234,7 +234,7 @@ If that still fails, you can perform an “emergencyWithdraw” from the contrac
 2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
 
-This will unstake your staked tokens and lose any uncollected DGP yield.
+This will unstake your staked tokens and lose any uncollected DIGIS yield.
 
 {% hint style="warning" %}
 **This will lose any yield that you haven’t harvested yet.**
@@ -242,9 +242,9 @@ This will unstake your staked tokens and lose any uncollected DGP yield.
 {% endtab %}
 
 {% tab title="Reason" %}
-To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake DGP Earn DGP” pool.
+To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake DIGIS Earn DIGIS” pool.
 
-This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to DGP when you stake in the DGP-DGP Syrup Pool. SYRUP must be burned at a 1:1 ratio to DGP when calling leaveStaking (unstaking your DGP from the pool), so if you don't have enough, you can't unstake from the pool.
+This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to DIGIS when you stake in the DIGIS-DIGIS Syrup Pool. SYRUP must be burned at a 1:1 ratio to DIGIS when calling leaveStaking (unstaking your DIGIS from the pool), so if you don't have enough, you can't unstake from the pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 

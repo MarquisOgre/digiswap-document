@@ -42,10 +42,10 @@ Some items didn't make it into the "Coming Up" section due to security or confid
   * Fixed-term Staking
   * Farm Auctions
 * Done
-  * DGP Staking
+  * DIGIS Staking
   * Core Pools
-  * Community Pools: Host BSC community project Pools, support with 0.1-0.2x DGP farms
-  * Auto-compounding DGP-DGP Syrup Pool
+  * Community Pools: Host BSC community project Pools, support with 0.1-0.2x DIGIS farms
+  * Auto-compounding DIGIS-DIGIS Syrup Pool
   * Syrup Pool Boosts
   * APR/APY Calculator v2
   * Harvest all
@@ -74,7 +74,7 @@ Some items didn't make it into the "Coming Up" section due to security or confid
   * Pancake Squad generative NFT collection
   * NFT Market Phase 1
 
-### Site Upgrades / DGP / Other Products
+### Site Upgrades / DIGIS / Other Products
 
 * Pending
   * MasterChef v2: Ready for Future Products and New Tokenomics
@@ -91,6 +91,6 @@ Some items didn't make it into the "Coming Up" section due to security or confid
   * Analytics
   * Voting v2
   * IFOs v2
-  * IFO DGP Pool & IFO 3.0
+  * IFO DIGIS Pool & IFO 3.0
 
 ## \*\*\*\*

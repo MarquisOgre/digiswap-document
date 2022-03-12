@@ -31,9 +31,9 @@
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Syrup Pools](products/syrup-pool/README.md)
   * [How to Stake in Syrup Pools](products/syrup-pool/syrup-pool-guide.md)
-  * [Auto DGP Syrup Pool](products/syrup-pool/auto-compounding.md)
+  * [Auto DIGIS Syrup Pool](products/syrup-pool/auto-compounding.md)
   * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-faq.md)
-* [🎟 Lottery v2](products/lottery/README.md)
+<!-- * [🎟 Lottery v2](products/lottery/README.md)
   * [How to Play Lottery v2](products/lottery/lottery-guide.md)
   * [Lottery FAQ](products/lottery/lottery-faq.md)
 * [🔮 Prediction](products/prediction/README.md)
@@ -51,13 +51,13 @@
   * [Analytics](products/info/digiswap-analytics.md)
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
-  * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
+  * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md) -->
 
 ## Tokenomics
 
-* [DGP](tokenomics/cake/README.md)
-  * [DGP Tokenomics](tokenomics/cake/cake-tokenomics.md)
-  * [Controlling DGP supply](tokenomics/cake/controlling-cake-supply.md)
+* [DIGIS](tokenomics/digis/README.md)
+  * [DIGIS Tokenomics](tokenomics/digis/digis-tokenomics.md)
+  * [Controlling DIGIS supply](tokenomics/digis/controlling-digis-supply.md)
 
 ## Developers <a href="#code" id="code"></a>
 
@@ -68,8 +68,8 @@
   * [Digiswap Exchange](code/smart-contracts/digiswap-exchange/README.md)
     * [Factory v2](code/smart-contracts/digiswap-exchange/factory-v2.md)
     * [Router v2](code/smart-contracts/digiswap-exchange/router-v2.md)
-  * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
-  * [Auto DGP Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
+  * [Main Staking/Sweet Pool/DigiMaster Contract](code/smart-contracts/main-staking-masterchef-contract.md)
+  * [Auto DIGIS Sweet Pool (DigiVault)](code/smart-contracts/digivault.md)
   * [Prediction V2](code/smart-contracts/prediction-v2.md)
   * [Lottery v2](code/smart-contracts/lottery-v2.md)
 
@@ -83,10 +83,10 @@
 
 ## Contract Governance <a href="#governance" id="governance"></a>
 
-* [Lottery](governance/lottery/README.md)
+<!-- * [Lottery](governance/lottery/README.md)
   * [Lottery Contract](governance/lottery/lottery-contract.md)
-* [Prediction](governance/prediction.md)
+* [Prediction](governance/prediction.md) -->
 * [Farms](governance/farms.md)
-* [Syrup Pools](governance/syrup-pools/README.md)
+* [Sweet Pools](governance/syrup-pools/README.md)
   * [SmartChefInitializable](governance/syrup-pools/smartchefinitializable.md)
   * [PoolDeployer](governance/syrup-pools/pooldeployer.md)

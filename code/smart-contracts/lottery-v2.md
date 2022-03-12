@@ -60,15 +60,15 @@ Returns information on specified Lottery round as tuple \(see Lottery structure 
 | :--- | :--- | :--- |
 | `startTime` | uint256 | Starting block for Lottery round. |
 | `endTime` | uint256 | Ending block for Lottery round \(approximately 12 hours after a round begins\). |
-| `priceTicketInCake` | uint256 | The price of a ticket in DGP \(approximately $5 USD\). |
+| `priceTicketInCake` | uint256 | The price of a ticket in DIGIS \(approximately $5 USD\). |
 | `discountDivisor` | uint256 | The divisor used to calculate bulk ticket discount. |
 | `rewardsBreakdown` | uint256\[6\] | The division of rewards across brackets \(total must add up to 10,000\). |
 | `treasuryFee` | uint256 | Amount taken from funds raised per round that's moved to treasury address \(maximum 3000\). |
-| `cakePerBracket` | uint256\[6\] | The amount of DGP to distribute to winners of each bracket. |
+| `cakePerBracket` | uint256\[6\] | The amount of DIGIS to distribute to winners of each bracket. |
 | `countWinnersPerBracket` | uint256\[6\] | Moves through brackets, starting from the highest, accounting for winners when value &gt; 0. |
 | `firstTicketId` | uint256 | Id of the first ticket, set with the opening of the Lottery round, that determines the range of eligible tickets for the current round. |
 | `firstTicketIdNextLottery` | uint256 | Id of the first ticket, set at the closing of current round, that determines the range of eligible tickets for the current round. |
-| `amountCollectedInCake` | uint256 | The amount of DGP collected through ticket sales for the Lottery round. |
+| `amountCollectedInCake` | uint256 | The amount of DIGIS collected through ticket sales for the Lottery round. |
 | `finalNumber` | uint32 | The final number determined by `randomResult` obtained from the number generator contract \([RandomNumberGenerator.sol](https://bscscan.com/address/0x8c6375Aab6e5B26a30bF241EBBf29AD6e6c503c2)\) using Chainlink VRF. |
 
 ### viewNumbersAndStatusesForTicketIds
@@ -166,7 +166,7 @@ Filling and querying will provide a link to detailed price information on BscSca
 | Name | Type | Description |
 | :--- | :--- | :--- |
 | `discountDivisor` | uint256 | The divisor for the discount. |
-| `priceTickets` | uint256 | The price of a ticket in DGP. |
+| `priceTickets` | uint256 | The price of a ticket in DIGIS. |
 | `numberTickets` | uint256 | The number of tickets to buy. |
 
 ## Write functions \(users\)
@@ -252,7 +252,7 @@ Inject funds into a Lottery. Lottery must be `Open`.
 | Name | Type | Description |
 | :--- | :--- | :--- |
 | `lotteryId` | uint256 | The id of the Lottery. |
-| `amount` | uint256 | Amount, in DGP token, to inject. |
+| `amount` | uint256 | Amount, in DIGIS token, to inject. |
 
 ### startLottery
 
@@ -271,7 +271,7 @@ Starts the Lottery, setting it to `Open` state. Status must be `Claimable`.
 | Name | Type | Description |
 | :--- | :--- | :--- |
 | `endTime` | uint256 | End time of the Lottery. |
-| `priceTicketInCake` | uint256 | Price of a ticket in DGP. |
+| `priceTicketInCake` | uint256 | Price of a ticket in DIGIS. |
 | `discountDivisor` | uint256 | The divisor to calculate the discount magnitude for bulks. |
 | `rewardsBreakdown` | uint256\[6\] | Breakdown of rewards per bracket \(must sum to 10,000\). |
 | `trasuryFee` | uint256 | Treasury fee \(10,000 = 100%, 100 = 1%\). |
@@ -282,7 +282,7 @@ Starts the Lottery, setting it to `Open` state. Status must be `Claimable`.
 function recoverWrongTokens(address _tokenAddress, uint256 _tokenAmount) external onlyOwner;
 ```
 
-Allows admin to recover incorrect tokens sent to address mistakenly. Cannot be DGP tokens.
+Allows admin to recover incorrect tokens sent to address mistakenly. Cannot be DIGIS tokens.
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
@@ -295,12 +295,12 @@ Allows admin to recover incorrect tokens sent to address mistakenly. Cannot be D
 function recoverWrongTokens(address _tokenAddress, uint256 _tokenAmount) external onlyOwner;
 ```
 
-Allows admin to set upper and lower limit of ticket price in DGP value. Minimum price must be lower than maximum price.
+Allows admin to set upper and lower limit of ticket price in DIGIS value. Minimum price must be lower than maximum price.
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| `minPriceTicketInCake` | uint256 | The minimum price in DGP. |
-| `maxPriceTicketInCake` | uint256 | The maximum price in DGP. |
+| `minPriceTicketInCake` | uint256 | The minimum price in DIGIS. |
+| `maxPriceTicketInCake` | uint256 | The maximum price in DIGIS. |
 
 ### setMaxNumberTicketsPerBuy
 

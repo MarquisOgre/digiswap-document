@@ -14,7 +14,7 @@ To interact correctly with the farming smart contract, you’ll need the matchin
 
 1\. Open the [Digiswap website’s Farms code on GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
 
-2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'DGP-BUSD'.
+2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'DIGIS-BUSD'.
 
 ![](<../../.gitbook/assets/image (112).png>)
 
@@ -40,7 +40,7 @@ You'll need to approve the smart contract for the LP Token you wish to commit to
 
 1\. First, open [farms.ts on GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
 
-2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'DGP-BNB'
+2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'DIGIS-BNB'
 
 ![](<../../.gitbook/assets/image (132).png>)
 
@@ -50,7 +50,7 @@ You'll need to approve the smart contract for the LP Token you wish to commit to
 
 ### From the UI
 
-1\. First, visit the [Digiswap Farms page](https://pancakeswap.finance/farms) and search for your chosen pair using the "SEARCH" field in the top right. We're using DGP-BUSD for this example.
+1\. First, visit the [Digiswap Farms page](https://pancakeswap.finance/farms) and search for your chosen pair using the "SEARCH" field in the top right. We're using DIGIS-BUSD for this example.
 
 ![](<../../.gitbook/assets/image (113).png>)
 
@@ -80,7 +80,7 @@ Confirm the connection.
 
 ![](<../../.gitbook/assets/image (118).png>)
 
-5\. You’re also going to need to approve the amount of LP Tokens the contract can spend. In the value field, you’ll need to enter the amount in Wei. You can use the [BscScan Unit Converter](https://www.bscscan.com/unitconverter) to easily change your amount into Wei. Here we'll use 5 DGP-BUSD LP Tokens.
+5\. You’re also going to need to approve the amount of LP Tokens the contract can spend. In the value field, you’ll need to enter the amount in Wei. You can use the [BscScan Unit Converter](https://www.bscscan.com/unitconverter) to easily change your amount into Wei. Here we'll use 5 DIGIS-BUSD LP Tokens.
 
 ![](<../../.gitbook/assets/image (158) (1).png>)
 
@@ -153,7 +153,7 @@ If you didn't copy down your PID earlier, you can learn how to get it in the **F
 ‌Using the emergency withdraw function allows you to draw all your funds out of a pool when no other way is working.
 
 {% hint style="danger" %}
-**Using the emergency withdraw function will forfeit your DGP rewards!**
+**Using the emergency withdraw function will forfeit your DIGIS rewards!**
 
 The Digiswap team strongly suggests avoiding this function unless advised to do so officially by the Digiswap team, or if you are very comfortable interacting with smart contracts and understand the underlying code.
 {% endhint %}

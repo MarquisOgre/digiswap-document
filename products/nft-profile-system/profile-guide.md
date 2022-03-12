@@ -6,7 +6,7 @@ Create a personalized profile on Digiswap to share your personality with the wor
 
 Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special Digiswap team events.\
 \
-**This process will cost a total of 1.5 DGP.**
+**This process will cost a total of 1.5 DIGIS.**
 
 ![](<../../.gitbook/assets/image (160).png>)
 
@@ -15,7 +15,7 @@ Having your profile created will let you to share your NFT profile picture and a
 
 ![](<../../.gitbook/assets/image (159).png>)
 
-2\. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 DGP.
+2\. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 DIGIS.
 
 ![](<../../.gitbook/assets/image (161).png>)
 
@@ -67,7 +67,7 @@ If you face "username keeps spinning" issue, please check [troubleshooting](http
 
 ![](<../../.gitbook/assets/image (177).png>)
 
-11\. You’ll receive a message saying your profile contract will cost you 0.5 DGP. Click **Enable,** then confirm the action in your wallet. After it's approved, click the **Confirm** button.
+11\. You’ll receive a message saying your profile contract will cost you 0.5 DIGIS. Click **Enable,** then confirm the action in your wallet. After it's approved, click the **Confirm** button.
 
 ![](<../../.gitbook/assets/image (178).png>)
 

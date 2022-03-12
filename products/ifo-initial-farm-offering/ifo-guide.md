@@ -16,15 +16,15 @@ Before you can join an IFO there are a few things you will need to do to get rea
 
 ### Create your Digiswap profile
 
-To take part in an IFO, you'll need a Digiswap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total DGP supply down by burning a little DGP from each profile created.\
+To take part in an IFO, you'll need a Digiswap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total DIGIS supply down by burning a little DIGIS from each profile created.\
 \
 To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.digiswap.finance/get-started/profile-guide).
 
-### Get DGP-BNB Liquidity Tokens
+### Get DIGIS-BNB Liquidity Tokens
 
-Once you have a profile, you will also need to provide liquidity to get some DGP-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO.\
+Once you have a profile, you will also need to provide liquidity to get some DIGIS-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO.\
 \
-To provide liquidity and get some DGP-BNB LP Tokens, you can follow our How to Add/Remove Liquidity guide [here](https://docs.digiswap.finance/get-started/liquidity-guide).
+To provide liquidity and get some DIGIS-BNB LP Tokens, you can follow our How to Add/Remove Liquidity guide [here](https://docs.digiswap.finance/get-started/liquidity-guide).
 
 ### Check on your progress
 
@@ -56,7 +56,7 @@ The countdown and announcements will give you plenty of time to prepare.
 
 ## **Once the IFO is live**
 
-While an IFO is live, you will have 1 hour to participate. If you have prepared your DGP-BNB LP Tokens it doesn’t take long at all to buy the new token.
+While an IFO is live, you will have 1 hour to participate. If you have prepared your DIGIS-BNB LP Tokens it doesn’t take long at all to buy the new token.
 
 ### Checking the IFO is live
 
@@ -70,7 +70,7 @@ There are two sales available: Basic Sale and Unlimited Sale. It's possible to p
 
 #### **Basic Sale**
 
-The Basic Sale has a limited buy amount per user (about $100 USD in DGP-BNB LP Tokens). Anyone can participate in the Basic Sale, and there are no fees to buy tokens this way.
+The Basic Sale has a limited buy amount per user (about $100 USD in DIGIS-BNB LP Tokens). Anyone can participate in the Basic Sale, and there are no fees to buy tokens this way.
 
 #### **Unlimited Sale**
 

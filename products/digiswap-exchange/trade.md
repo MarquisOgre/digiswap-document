@@ -12,4 +12,4 @@ When you make a token swap (trade) on the exchange you will pay a **0.25% tradin
 
 **0.03%** - Sent to the Digiswap Treasury.
 
-**0.05%** - Sent towards DGP buyback and burn.
+**0.05%** - Sent towards DIGIS buyback and burn.

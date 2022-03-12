@@ -55,7 +55,7 @@ For example: User A enters an UP position, no one else enters a DOWN position. U
 
 ### **What happens if the Locked Price and Closed Price are the exact same?**
 
-In the very rare occurrence that the Locked Price is exactly the same as the Closed Price, no one wins, and all funds entered into positions will be sent to the treasury to be used for DGP buybacks to burn.
+In the very rare occurrence that the Locked Price is exactly the same as the Closed Price, no one wins, and all funds entered into positions will be sent to the treasury to be used for DIGIS buybacks to burn.
 
 ### **Can I change or remove my position?**
 
@@ -82,11 +82,11 @@ For example, if there’s 15 BNB in the DOWN side of a round, and the overall pr
 
 In the above case, if the round ends on a DOWN result, if you committed 2 BNB to a DOWN position, you’d get a payout of \(2\*10\) × \(1-0.03\) = 19.4 BNB. Your profit would be 17.4 BNB \(19.4 - 2\).
 
-The treasury fee is currently set at 3%: this may be subject to changes, which would be announced on Digiswap’s official communication channels. Treasury fees are used to buy back and burn DGP tokens.
+The treasury fee is currently set at 3%: this may be subject to changes, which would be announced on Digiswap’s official communication channels. Treasury fees are used to buy back and burn DIGIS tokens.
 
 ### **What are the fees?**
 
-3% of each round's total pot will go to the treasury, which will be used to buyback and burn DGP every Monday.
+3% of each round's total pot will go to the treasury, which will be used to buyback and burn DIGIS every Monday.
 
 ### What are you using for your price feed?
 

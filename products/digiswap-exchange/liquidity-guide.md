@@ -4,7 +4,7 @@
 
 "Liquidity" is central to how Digiswap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.digiswap.finance/products/yield-farming/farms) to earn DGP rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.digiswap.finance/products/yield-farming/farms) to earn DIGIS rewards!
 
 ### **Adding liquidity**
 
@@ -12,7 +12,7 @@ To provide liquidity, you’ll need to commit an amount of any token pair you li
 
 You can easily trade for any tokens you need. Visit our [How to Trade on Digiswap](https://docs.digiswap.finance/get-started/trade-guide) guide if you need to.
 
-In this example, we will add liquidity using BNB and DGP.\
+In this example, we will add liquidity using BNB and DIGIS.\
 ****
 
 1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
@@ -27,7 +27,7 @@ In this example, we will add liquidity using BNB and DGP.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_03.png)
 
-4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use DGP as an example.
+4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use DIGIS as an example.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_04.png)
 
@@ -39,7 +39,7 @@ In this example, we will add liquidity using BNB and DGP.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_06.png)
 
-6\. Click the **Enable DGP** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+6\. Click the **Enable DIGIS** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_07.png)
 

@@ -10,7 +10,7 @@ By selecting “Staked Only”, it will make it easier to find your assets.
 
 ### **Why can’t I unstake my tokens from a Syrup Pool?**
 
-If you are unable to unstake from the Stake Cake, Earn DGP pools, please check to make sure that you haven’t sold the SYRUP tokens in your wallet. This token acts as a \`proof of ownership\` over your DGP in the Manual DGP pool. 
+If you are unable to unstake from the Stake Cake, Earn DIGIS pools, please check to make sure that you haven’t sold the SYRUP tokens in your wallet. This token acts as a \`proof of ownership\` over your DIGIS in the Manual DIGIS pool. 
 
 ### **Why did my earned tokens go to zero after staking/unstaking?**
 
@@ -24,9 +24,9 @@ Whenever you stake or unstake from a Syrup Pool or farm, your earned tokens get 
 
 > Syrup Pool APR = Annualized rewards \(USD\) / User funds staked in Syrup Pool \(USD\) \* 100
 
-As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, and 3,000,000 USD worth of DGP staked in it.
+As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, and 3,000,000 USD worth of DIGIS staked in it.
 
-The APR fluctuates as more DGP is staked by users, and as the price of DGP, and the reward token, vary.
+The APR fluctuates as more DIGIS is staked by users, and as the price of DIGIS, and the reward token, vary.
 
 <table>
   <thead>
@@ -61,7 +61,7 @@ The APR fluctuates as more DGP is staked by users, and as the price of DGP, and 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Value of DGP staked by users in pool (USD value)</b>
+      <td style="text-align:left"><b>Value of DIGIS staked by users in pool (USD value)</b>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><b>3,000,000 USD</b>
@@ -88,25 +88,25 @@ This shows the amount of blocks left until the rewards for that pool stop being 
 
 There are three main types of Syrup Pools.
 
-1. Stake DGP, earn DGP
-2. Stake DGP, earn other tokens. 
-3. Stake other tokens, earn DGP
+1. Stake DIGIS, earn DIGIS
+2. Stake DIGIS, earn other tokens. 
+3. Stake other tokens, earn DIGIS
 
-The rewards for the "Stake DGP, earn DGP" Syrup Pools come from the [DGP emissions](https://docs.digiswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of DGP tokens are allocated as rewards for these pools.
+The rewards for the "Stake DIGIS, earn DIGIS" Syrup Pools come from the [DIGIS emissions](https://docs.digiswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of DIGIS tokens are allocated as rewards for these pools.
 
-The rewards for the "Stake DGP, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
+The rewards for the "Stake DIGIS, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
 
-For the "Stake other tokens, earn DGP" type, the Digiswap treasury buys back DGP from the market to distribute as rewards. These pools are funded by Digiswap, not by the projects themselves.
+For the "Stake other tokens, earn DIGIS" type, the Digiswap treasury buys back DIGIS from the market to distribute as rewards. These pools are funded by Digiswap, not by the projects themselves.
 
 ### What’s SYRUP Token?
 
-Digiswap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake DGP, Earn DGP” Syrup Pool. It's not staked for 
+Digiswap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake DIGIS, Earn DIGIS” Syrup Pool. It's not staked for 
 
-It’s basically an IOU that shows how much DGP you’ve staked in the pool.
+It’s basically an IOU that shows how much DIGIS you’ve staked in the pool.
 
-It’ll be returned automatically when you unstake your DGP from that pool.
+It’ll be returned automatically when you unstake your DIGIS from that pool.
 
 {% hint style="warning" %}
-Don’t sell your SYRUP tokens! You need to return your SYRUP to unstake your DGP from the Manual DGP pool. The amount of SYRUP you return must be the same as the amount of DGP you unstake.
+Don’t sell your SYRUP tokens! You need to return your SYRUP to unstake your DIGIS from the Manual DIGIS pool. The amount of SYRUP you return must be the same as the amount of DIGIS you unstake.
 {% endhint %}
 

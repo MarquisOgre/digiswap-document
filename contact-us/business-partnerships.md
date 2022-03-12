@@ -4,9 +4,9 @@
 
 ## Farms and Syrup Pools
 
-Farms incentivize users to provide liquidity for your trading pair by distributing DGP to your pair's LP Token holders.
+Farms incentivize users to provide liquidity for your trading pair by distributing DIGIS to your pair's LP Token holders.
 
-Syrup Pools are a way of distributing your tokens to BSC users who stake DGP in the pool.
+Syrup Pools are a way of distributing your tokens to BSC users who stake DIGIS in the pool.
 
 These two products go hand-in-paw on Digiswap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
@@ -35,8 +35,8 @@ If you’ve already got an ongoing Pool and Farm, you may be able to extend the 
 
 "IFO" (Initial Farm Offering) is a new model of token sale pioneered by Digiswap. Here's how it works, in short:&#x20;
 
-* Users buy your token with DGP tokens.
-* After the sale, we distribute the DGP to you.
+* Users buy your token with DIGIS tokens.
+* After the sale, we distribute the DIGIS to you.
 
 Learn more about [how IFOs work.](https://medium.com/pancakeswap/initial-farm-offering-ifo-3-0-ifo-staking-pool-622d8bd356f1)
 

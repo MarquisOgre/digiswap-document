@@ -2,10 +2,10 @@
 
 ![](<../../.gitbook/assets/docs masthead (6) (1).png>)
 
-Digiswap's Lottery is not only a good way to make stacks of DGP, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
+Digiswap's Lottery is not only a good way to make stacks of DIGIS, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
 
 {% hint style="info" %}
-The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge DGP jackpots to get your mouth watering. Learn more about [Digiswap Lottery v2 here](https://docs.digiswap.finance/products/lottery).
+The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge DIGIS jackpots to get your mouth watering. Learn more about [Digiswap Lottery v2 here](https://docs.digiswap.finance/products/lottery).
 {% endhint %}
 
 ## Deciding if you'd like to enter a round
@@ -32,7 +32,7 @@ Remember, a lot can change in the remaining time. Many more tickets may be sold.
 
 ‌Buying tickets is easy.&#x20;
 
-You just need a little DGP though: each ticket costs approximately $5 USD (the exact DGP price is set at the start of the round).
+You just need a little DIGIS though: each ticket costs approximately $5 USD (the exact DIGIS price is set at the start of the round).
 
 You can choose to either randomize your lottery ticket numbers, or to choose your ticket numbers manually. Choose between the randomized numbers and manual numbers tabs below for a guide to each method.
 

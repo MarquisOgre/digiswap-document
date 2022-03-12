@@ -12,11 +12,11 @@ description: Guidlines and downloadable assets like the Digiswap logo SVG
 
 Digiswap logo downloads are at the bottom of this page, but please be sure to read these guidelines first.
 
-> Although Digiswap distributes some of its technology under open-source licenses, **the Digiswap and DGP brands are not distributed under the same licenses.**
+> Although Digiswap distributes some of its technology under open-source licenses, **the Digiswap and DIGIS brands are not distributed under the same licenses.**
 
 The following Digiswap "Brand Assets" are copyrighted material, and you may only use them in accordance with the policy detailed below:
 
-* The Digiswap and DGP logos, wordmark, icon
+* The Digiswap and DIGIS logos, wordmark, icon
 * The Digiswap name
 * Other visual assets produced by Digiswap including but not limited to illustrations and 3d models
 
@@ -37,7 +37,7 @@ While we strongly believe in and follow the open source ethos, **protecting the 
 Here are a few examples of forbidden uses of our Brand Assets:
 
 * ⛔️ **Don't use our Brand Assets in your products' name, logo, NFTs, etc.**&#x20;
-  * For example, making an app called "Digiswap Engine" or "DGP Child" are not allowed.
+  * For example, making an app called "Digiswap Engine" or "DIGIS Child" are not allowed.
   * Don't use the Digiswap logo in whole or in part as part of your products' logos, marketing material, website, or other.
   * Logos with a strong resemblence to the Digiswap Icon are also forbidden.
 * ⛔️ **Don't use our Brand Assets to create digital or physcial products for sale, including but not limited to**
@@ -59,17 +59,17 @@ Have fun making a unique brand that's clearly yours -- if your product is strong
 
 ![](<.gitbook/assets/Frame 4.png>)
 
-Once you've read all the above, download the Digiswap and DGP logos below.
+Once you've read all the above, download the Digiswap and DIGIS logos below.
 
 {% file src=".gitbook/assets/Digiswap Logos.zip" %}
-Download the official Digiswap and DGP logos.
+Download the official Digiswap and DIGIS logos.
 {% endfile %}
 
 By downloading this file, you confirm that you will only use it to the extent permitted by the Terms detailed in this page.
 
 {% hint style="info" %}
-As of November 1st, the DGP token logo will also be represented by the Digiswap Rabbit icon.
+As of November 1st, the DIGIS token logo will also be represented by the Digiswap Rabbit icon.
 
-The previous DGP icon, representing pancakes, has been depracated.
+The previous DIGIS icon, representing pancakes, has been depracated.
 {% endhint %}
 
