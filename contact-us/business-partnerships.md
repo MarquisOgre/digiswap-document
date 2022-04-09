@@ -2,11 +2,11 @@
 
 ![](<../.gitbook/assets/docs masthead (21).png>)
 
-## Farms and Sweet Pools
+## Farms and DGSweet Pools
 
 Farms incentivize users to provide liquidity for your trading pair by distributing DIGIS to your pair's LP Token holders.
 
-Sweet Pools are a way of distributing your tokens to BSC users who stake DIGIS in the pool.
+DGSweet Pools are a way of distributing your tokens to BSC users who stake DIGIS in the pool.
 
 These two products go hand-in-paw on Digiswap: when a project provides their tokens for a Sweet Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 

@@ -1,15 +1,15 @@
-# 🍯 Sweet Pools
+# 🍯 DGSweet Pools
 
 ![Ahh, delicious](../../.gitbook/assets/masthead.png)
 
-### **What are Sweet Pools?**
+### **What are DGSweet Pools?**
 
-Sweet Pools are the simplest way to earn free tokens on Digiswap.\
+DGSweet Pools are the simplest way to earn free tokens on Digiswap.\
 Stake DIGIS, earn free tokens. It’s really that easy.
 
 Some special pools let you stake other tokens besides DIGIS, too!
 
-### **How can I use Sweet Pools?**
+### **How can I use DGSweet Pools?**
 
 {% content-ref url="sweet-pool-guide.md" %}
 [sweet-pool-guide.md](sweet-pool-guide.md)
@@ -31,7 +31,7 @@ Reach out via [the application form](https://docs.digiswap.finance/contact-us/bu
 
 ### Sweet Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-[All Manual Sweet Pools](../../code/smart-contracts/main-staking-masterchef-contract.md)
+[All Manual DGSweet Pools](../../code/smart-contracts/main-staking-masterchef-contract.md)
 
 [Auto DIGIS Sweet Pool](../../code/smart-contracts/cakevault.md)
 

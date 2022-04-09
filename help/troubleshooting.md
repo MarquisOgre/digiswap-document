@@ -211,7 +211,7 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 {% endtab %}
 {% endtabs %}
 
-## **Issues with Sweet Pools**
+## **Issues with DGSweet Pools**
 
 ### BEP20: burn amount exceeds balance
 

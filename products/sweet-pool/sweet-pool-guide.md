@@ -1,12 +1,12 @@
 ---
-description: 'Sweet Pools: the simplest way to earn on Digiswap'
+description: 'DGSweet Pools: the simplest way to earn on Digiswap'
 ---
 
-# How to Stake in Sweet Pools
+# How to Stake in DGSweet Pools
 
 ![](<../../.gitbook/assets/docs masthead (15) (1).png>)
 
-Staking in [Sweet Pools](https://docs.digiswap.finance/products/sweet-pool) lets you earn DIGIS or other tokens while you sleep!
+Staking in [DGSweet Pools](https://docs.digiswap.finance/products/sweet-pool) lets you earn DIGIS or other tokens while you sleep!
 
 It's simpler than farming with Digiswap's Yield Farms, because unlike the Farms, you only need to stake **one token** to start earning: usually DIGIS.
 
@@ -30,7 +30,7 @@ It's simpler than farming with Digiswap's Yield Farms, because unlike the Farms,
 
 **Manual DIGIS** doesn’t automatically compound like Auto DIGIS. You’ll need to harvest and compound your earnings manually.
 
-Other Sweet Pools let you stake your DIGIS to earn dozens of other cool tokens. Make sure you check them out.\
+Other DGSweet Pools let you stake your DIGIS to earn dozens of other cool tokens. Make sure you check them out.\
 ****
 
 5\. Once you choose a pool, click the **Enable** button. Your wallet will ask you to confirm the action.

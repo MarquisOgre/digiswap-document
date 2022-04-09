@@ -30,14 +30,14 @@ Unlike centralized exchanges like Binance or Coinbase, DigiSwap doesn’t hold y
 
 > Earn DIGIS and other tokens for free with super high interest rates.
 
-### Earn tokens with Sweet Pools
+### Earn tokens with DGSweet Pools
 
 Stake DIGIS, earn free tokens. It’s really that easy.\
 DIGIS holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
 
 ### Earn DIGIS with Yield Farms
 
-Stake LP tokens, earn DIGIS. You take on a little more exposure to market fluctuations than with the Sweet Pools, but can earn higher APR to offset the risk.
+Stake LP tokens, earn DIGIS. You take on a little more exposure to market fluctuations than with the DGSweet Pools, but can earn higher APR to offset the risk.
 
 ### Earn Trading Fees
 
@@ -66,15 +66,12 @@ New rounds every 5 minutes!\\ -->
 See for yourself:
 
 * Check out these DigiSwap security audits:
-  * [Certik’s security audit of DigiSwap](https://www.certik.org/projects/digiswap) and [Certik's Shield insurance](https://shield.certik.foundation)
-  * [Slowmist's security audit of DigiSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20Digiswap.pdf)
-  * [Slowmist's Auto-DIGIS Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-Digiswap-PredictionV2-v1.0.pdf)
+  * [SpyWolf’s security audit of DigiSwap](https://github.com/SpyWolfNetwork/Smart_Contract_Audits/blob/main/March/DigiSwap_0x0Ff81F18bCb9519ac6027c732D196945CA4D2a9A.pdf) 
+
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on BscScan so you know that what you see is what you get: [Router](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [DigiMaster](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [DigiswapFactory](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [SmartChef](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
+  * Our contracts are verified on BscScan so you know that what you see is what you get: [Router](https://bscscan.com/address/0x991fe642F3606CC3cF0f7b7eAA8A8E75587Ab723) [DigiMaster](https://bscscan.com/address/0xa03D26887cfFF070c80c8D2289BAb2e7818e21D5#code) [DigiswapFactory](https://bscscan.com/address/0x98813bD470A3BA8Da3D16488c58374e8dBc2FF22) [DigiVault](https://bscscan.com/address/0x11B8474662E84E595a847a65914E72acBc8C5649#code) [SmartChef](https://bscscan.com/address/0x94F981215d81a3038B68fB27a8f8120648c49002)
 * Security best practices:
-  * The chefs use multisig for all contracts.
   * Our contracts’ time-locks give you peace of mind.
 
 **Sounds like fun?**\

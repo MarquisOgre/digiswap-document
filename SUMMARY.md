@@ -29,8 +29,8 @@
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
-* [🍯 Sweet Pools](products/sweet-pool/README.md)
-  * [How to Stake in Sweet Pools](products/sweet-pool/sweet-pool-guide.md)
+* [🍯 DGSweet Pools](products/sweet-pool/README.md)
+  * [How to Stake in DGSweet Pools](products/sweet-pool/sweet-pool-guide.md)
   * [Auto DIGIS Sweet Pool](products/sweet-pool/auto-compounding.md)
   * [Sweet Pool FAQ & Troubleshooting](products/sweet-pool/sweet-pool-faq.md)
 <!-- * [🎟 Lottery v2](products/lottery/README.md)
@@ -87,6 +87,6 @@
   * [Lottery Contract](governance/lottery/lottery-contract.md)
 * [Prediction](governance/prediction.md) -->
 * [Farms](governance/farms.md)
-* [Sweet Pools](governance/sweet-pools/README.md)
+* [DGSweet Pools](governance/sweet-pools/README.md)
   * [SmartChefInitializable](governance/sweet-pools/smartchefinitializable.md)
   * [PoolDeployer](governance/sweet-pools/pooldeployer.md)

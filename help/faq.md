@@ -23,13 +23,13 @@ See for yourself:
 
 ## How can I stake DIGIS?
 
-You can stake your DIGIS in Digiswap Sweet Pools. Visit the [Sweet Pools page](https://pancakeswap.finance/pools).
+You can stake your DIGIS in Digiswap DGSweet Pools. Visit the [DGSweet Pools page](https://pancakeswap.finance/pools).
 
-Read our [How to Stake in Sweet Pools guide](https://docs.digiswap.finance/products/sweet-pool/sweet-pool-guide) if you'd like a hand getting started with staking.
+Read our [How to Stake in DGSweet Pools guide](https://docs.digiswap.finance/products/sweet-pool/sweet-pool-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
-Staking in Sweet Pools and farming with Yield Farming are both ways to earn more DIGIS by supporting Digiswap.
+Staking in DGSweet Pools and farming with Yield Farming are both ways to earn more DIGIS by supporting Digiswap.
 
 Staking only needs some DIGIS to be added to a Sweet Pool to earn DIGIS or other tokens.\
 [Learn more about Sweet Pool staking.](https://docs.digiswap.finance/products/sweet-pool)

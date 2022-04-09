@@ -4,7 +4,7 @@
 
 ### **I can't find the Sweet Pool I was staking in!**
 
-You should be able to find the Sweet Pool under the “Finished” tab on the Sweet Pools page. 
+You should be able to find the Sweet Pool under the “Finished” tab on the DGSweet Pools page. 
 
 By selecting “Staked Only”, it will make it easier to find your assets.
 
@@ -20,7 +20,7 @@ Whenever you stake or unstake from a Sweet Pool or farm, your earned tokens get 
 
 ## **General Questions**
 
-### How is APR for Sweet Pools calculated?
+### How is APR for DGSweet Pools calculated?
 
 > Sweet Pool APR = Annualized rewards \(USD\) / User funds staked in Sweet Pool \(USD\) \* 100
 
@@ -84,15 +84,15 @@ The APR fluctuates as more DIGIS is staked by users, and as the price of DIGIS, 
 
 This shows the amount of blocks left until the rewards for that pool stop being distributed. Once the pool has reached that block, you should unstake your tokens, because you won’t be receiving any rewards after that.
 
-### **Where do the rewards from Sweet Pools come from?**
+### **Where do the rewards from DGSweet Pools come from?**
 
-There are three main types of Sweet Pools.
+There are three main types of DGSweet Pools.
 
 1. Stake DIGIS, earn DIGIS
 2. Stake DIGIS, earn other tokens. 
 3. Stake other tokens, earn DIGIS
 
-The rewards for the "Stake DIGIS, earn DIGIS" Sweet Pools come from the [DIGIS emissions](https://docs.digiswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of DIGIS tokens are allocated as rewards for these pools.
+The rewards for the "Stake DIGIS, earn DIGIS" DGSweet Pools come from the [DIGIS emissions](https://docs.digiswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of DIGIS tokens are allocated as rewards for these pools.
 
 The rewards for the "Stake DIGIS, earn other tokens" type are provided by the project teams who sponsor a Sweet Pool.
 

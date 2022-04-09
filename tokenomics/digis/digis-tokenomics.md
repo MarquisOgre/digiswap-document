@@ -28,7 +28,7 @@ As such, we haven't included it in the above emission rate.
 | ----------------------------- | ---------------------------: | ------------------------: | -------------------: |
 | Farms and Lottery             |                       10.62% |                      4.25 |     122,400 (approx) |
 | of which diverted and burned  |                              |                           |              -46,000 |
-| Sweet Pools                   |                          25% |                        10 |     288,000 (approx) |
+| DGSweet Pools                   |                          25% |                        10 |     288,000 (approx) |
 | **Total Daily DIGIS Emission** |                              |                           | **364,400 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
