@@ -33,4 +33,4 @@
 
 ### How to apply
 
-Email Hiring@pancakeswap.com with your resume
+Email support@digiswap.finance with your resume

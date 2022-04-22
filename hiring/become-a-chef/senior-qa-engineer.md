@@ -26,4 +26,4 @@
 
 ### How to apply:
 
-Email [Hiring@pancakeswap.com](mailto:Hiring@pancakeswap.com) with your resume
+Email [support@digiswap.finance](mailto:support@digiswap.finance) with your resume
