@@ -70,10 +70,10 @@
     * [Router v2](code/smart-contracts/digiswap-exchange/router-v2.md)
   * [Main Staking/Sweet Pool/DigiMaster Contract](code/smart-contracts/main-staking-masterchef-contract.md)
   * [Auto DIGIS Sweet Pool (DigiVault)](code/smart-contracts/digivault.md)
-  * [Prediction V2](code/smart-contracts/prediction-v2.md)
-  * [Lottery v2](code/smart-contracts/lottery-v2.md)
+  <!-- * [Prediction V2](code/smart-contracts/prediction-v2.md)
+  * [Lottery v2](code/smart-contracts/lottery-v2.md) -->
 
-## Hiring
+<!-- ## Hiring
 
 * [Become a Chef](hiring/become-a-chef/README.md)
   * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
@@ -86,7 +86,7 @@
 <!-- * [Lottery](governance/lottery/README.md)
   * [Lottery Contract](governance/lottery/lottery-contract.md)
 * [Prediction](governance/prediction.md) -->
-* [Farms](governance/farms.md)
+<!-- * [Farms](governance/farms.md)
 * [DGSweet Pools](governance/sweet-pools/README.md)
   * [SmartChefInitializable](governance/sweet-pools/smartchefinitializable.md)
-  * [PoolDeployer](governance/sweet-pools/pooldeployer.md)
+  * [PoolDeployer](governance/sweet-pools/pooldeployer.md) --> 
