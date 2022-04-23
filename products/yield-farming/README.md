@@ -1,6 +1,6 @@
 # 🚜 Yield Farming
 
-![](<../../.gitbook/assets/docs masthead (1) (2).png>)
+![](<../../.gitbook/assets/yield-farms.png>)
 
 Yield Farms allow users to earn DIGIS while supporting Digiswap by staking LP Tokens.
 

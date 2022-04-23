@@ -1,6 +1,6 @@
 # Exchange
 
-\*\*\*\*[**Token swaps**](https://dex.digiswap.finance/#/swap) on Digiswap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
+\*\*\*\*[**Token swaps**](https://dex.digiswap.finance/swap) on Digiswap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
 
 ![Simple Swap UI](../.gitbook/assets/swap-2.png)
 

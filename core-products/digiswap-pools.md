@@ -1,6 +1,6 @@
 # Pools
 
-\*\*\*\*[**Digiswap pools** ](https://exchange.pancakeswap.finance/#/pool)allow you to provide liquidity by adding your tokens to liquidity pools or “LPs”.
+\*\*\*\*[**Digiswap pools** ](https://dex.digiswap.finance/pools)allow you to provide liquidity by adding your tokens to liquidity pools or “LPs”.
 
 When you add your token to a liquidity pool \(LP\), you will receive FLIP tokens \(Digiswap’s version of liquidity provider tokens\).
 
@@ -24,5 +24,5 @@ For example:
 * The DIGIS/BNB liquidity pool now has 10.017 DIGIS and 10.017 BNB.
 * Each FLIP token is now worth 1.00017 DIGIS + 1.00017 BNB.
 
-To make being a liquidity provider even more worth your while, you can also put your FLIP tokens to work whipping up some fresh yield on the [DIGIS farms \(here\)](https://pancakeswap.finance/), while still earning your 0.17% trading fee reward.
+To make being a liquidity provider even more worth your while, you can also put your FLIP tokens to work whipping up some fresh yield on the [DIGIS farms \(here\)](https://dex.digiswap.finance/), while still earning your 0.17% trading fee reward.
 
