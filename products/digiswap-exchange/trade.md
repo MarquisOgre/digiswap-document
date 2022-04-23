@@ -1,10 +1,10 @@
 # Token Swaps
 
-![](<../../.gitbook/assets/docs masthead (18).png>)
+![](<../../.gitbook/assets/swap.png>)
 
-****[**Token swaps**](https://exchange.pancakeswap.finance/#/swap) on Digiswap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
+****[**Token swaps**](https://dex.digiswap.finance/#/swap) on Digiswap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
 
-![](<../../.gitbook/assets/Screenshot 2021-04-19 at 6.11.54 PM.png>)
+![](<../../.gitbook/assets/swap-2.png>)
 
 When you make a token swap (trade) on the exchange you will pay a **0.25% trading fee**, which is broken down as follows:
 
