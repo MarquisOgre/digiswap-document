@@ -1,9 +1,9 @@
-# Auto DIGIS Sweet Pool \(CakeVault\)
+# Auto DIGIS Sweet Pool \(digivault\)
 
 ## Contract info
 
-**Contract name:** CakeVault  
-**Contract address:** 0xa80240Eb5d7E05d3F250cF000eEc0891d00b51CC
+**Contract name:** DigisVault  
+**Contract address:** 0x11B8474662E84E595a847a65914E72acBc8C5649
 
-View [Auto DIGIS Pool Smart Contract on BscScan](https://bscscan.com/address/0xa80240eb5d7e05d3f250cf000eec0891d00b51cc#code)
+View [Auto DIGIS Pool Smart Contract on BscScan](https://bscscan.com/address/0x11B8474662E84E595a847a65914E72acBc8C5649#code)
 
