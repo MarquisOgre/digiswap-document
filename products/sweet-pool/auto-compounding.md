@@ -4,7 +4,7 @@
 
 You've now got two delicious flavors of DIGIS-DIGIS Sweet Pool to choose from: Auto-compounding, and Manual. Read on to learn more!
 
-![Auto DIGIS & Manual DIGIS Pools](<../../.gitbook/assets/auto and manual pools.png>)
+![Auto DIGIS & Manual DIGIS Pools](<../../.gitbook/assets/Auto DIGIS.png>)
 
 ### What’s the difference between the “Auto DIGIS Pool” and the “Manual DIGIS Pool”? <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
@@ -35,7 +35,7 @@ But there are some differences:
 
 **Unstaking fee**&#x20;
 
-* **0.1%  if you unstake (withdraw) within 72 hours.**
+* **0.1% if you unstake (withdraw) within 72 hours.**
 * Only applies within 3 days of manually staking.
 * After 3 days, you can unstake with **no fee**.
 * The 3-day timer resets every time you manually stake more DIGIS in the pool.

@@ -4,7 +4,7 @@ description: 'DGSweet Pools: the simplest way to earn on Digiswap'
 
 # How to Stake in DGSweet Pools
 
-![](<../../.gitbook/assets/docs masthead (15) (1).png>)
+![](<../../.gitbook/assets/syruppoolstaking.png>)
 
 Staking in [DGSweet Pools](https://docs.digiswap.finance/products/sweet-pool) lets you earn DIGIS or other tokens while you sleep!
 
