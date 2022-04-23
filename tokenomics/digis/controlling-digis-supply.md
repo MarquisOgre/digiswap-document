@@ -1,6 +1,6 @@
 # Controlling DIGIS supply
 
-![](<../../.gitbook/assets/docs masthead (17) (1).png>)
+![](<../../.gitbook/assets/digistokenomic.png>)
 
 ## Why DIGIS has no hard cap
 
@@ -16,11 +16,8 @@ Community members often point to this as a cause for concern, and while the chef
 
 The chefs aim to **makedeflation higher than emission** by building deflationary mechanisms into Pancakeswap's products**.** The goal is for more DIGIS to leave circulation than the amount of DIGIS that's produced.
 
-### Reducing block emissions&#x20;
-
-By reducing the amount of DIGIS made per block, we slow inflation. This has already been done once: Since the [first reduction in block emissions](https://voting.dex.digiswap.finance/#/pancake/proposal/QmWSQZsqakCMQ1bmcoEsKzStdtdFHL6cohSjnMV9ira1EC), we've already effectively reduced the number of DIGIS entering circulation from 40 DIGIS per block to 14.5. But we don't want to do this too frequently, too early, for the same reason we don't want a hard cap: we still need to incentivize people to provide liquidity.
 
 ### Deflationary mechanisms
 
-Regular token burns ([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) are built into many of Digiswap's products (like a 10% burn of DIGIS spent on lottery tickets), with more on the way. Check the **** [**DIGIS Tokenomics page**](https://docs.digiswap.finance/tokenomics/cake/cake-tokenomics) **** for details on present and upcoming deflationary mechanisms.
+Regular token burns ([view burn address](https://bscscan.com/token/0x0Ff81F18bCb9519ac6027c732D196945CA4D2a9A?a=0x000000000000000000000000000000000000dead)) are built into many of Digiswap's products (like a 10% burn of DIGIS spent on lottery tickets), with more on the way. Check the **** [**DIGIS Tokenomics page**](https://docs.digiswap.finance/tokenomics/cake/cake-tokenomics) **** for details on present and upcoming deflationary mechanisms.
 
