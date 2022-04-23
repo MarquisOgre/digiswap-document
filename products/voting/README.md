@@ -6,7 +6,7 @@ Voting gives a voice to the Digiswap community, letting the community have a say
 
 ![](<../../.gitbook/assets/Screenshot 2020-11-02 at 3.56.39 PM.png>)
 
-Check out [Digiswap's native voting portal](https://voting.pancakeswap.finance/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/) on the Digiswap website.
+Check out [Digiswap's native voting portal](https://voting.dex.digiswap.finance/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/) on the Digiswap website.
 
 **Core** - proposals posted by the Digiswap team. The results will be actioned.
 

@@ -15,7 +15,7 @@ You can easily trade for any tokens you need. Visit our [How to Trade on Digiswa
 In this example, we will add liquidity using BNB and DIGIS.\
 ****
 
-1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
+1\. Visit the [Liquidity page](https://exchange.dex.digiswap.finance/#/pool).
 
 ![](<../../.gitbook/assets/Add\_Remove\_LP\_01 (1).png>)
 
@@ -59,7 +59,7 @@ You can repeat the above steps to add more liquidity, or add liquidity to differ
 
 To remove liquidity.
 
-1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
+1\. Visit the [Liquidity page](https://exchange.dex.digiswap.finance/#/pool)**.**
 
 2\. Click on the pair you want to remove liquidity from under “Your Liquidity".
 

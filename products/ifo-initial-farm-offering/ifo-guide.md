@@ -28,7 +28,7 @@ To provide liquidity and get some DIGIS-BNB LP Tokens, you can follow our How to
 
 ### Check on your progress
 
-Once you’ve followed the steps above, go back to the IFO page [here](https://pancakeswap.finance/ifo). Scroll down to the colored ‘How to Take Part’ section.\
+Once you’ve followed the steps above, go back to the IFO page [here](https://dex.digiswap.finance/ifo). Scroll down to the colored ‘How to Take Part’ section.\
 ****\
 ****![](https://lh5.googleusercontent.com/7Bh78UrDgqLpgsIjtAuX8UFkd8aG7-J3gsp36xGsCG0kPrkYckmy6UgTKQZfUJEkIMccixBdrhVUVmv2kJfnVGq9Vljb\_AXetLk89YzBIiSBPSGaIA-v2vRImzvNrFOnJWQWle-S)****\
 ****\

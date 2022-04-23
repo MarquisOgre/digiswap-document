@@ -167,7 +167,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (86).png>)
 
-1. Visit the [Digiswap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+1. Visit the [Digiswap website](https://dex.digiswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
 ![](<../.gitbook/assets/image (164) (3) (3) (2).png>)
 

@@ -6,7 +6,7 @@
 Warning: this page is outdated. As we will be bringing several new updates to the IFO process over the coming weeks, we won't keep this page up to date for now: please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in instead.
 {% endhint %}
 
-Joining IFOs can be exciting and very rewarding. The [Digiswap website’s IFO page](https://pancakeswap.finance/ifo) is an easy way to join an IFO. But some users may prefer to interact directly with smart contracts on the BscScan website. Using BscScan will let you see a contract's code, review its analytics and events in real-time, and find other useful information.
+Joining IFOs can be exciting and very rewarding. The [Digiswap website’s IFO page](https://dex.digiswap.finance/ifo) is an easy way to join an IFO. But some users may prefer to interact directly with smart contracts on the BscScan website. Using BscScan will let you see a contract's code, review its analytics and events in real-time, and find other useful information.
 
 Currently, only MetaMask or WalletConnect wallets can interact directly with BscScan. WalletConnect is still in beta, so for now we recommend using MetaMask.&#x20;
 
@@ -32,7 +32,7 @@ While an IFO is live, you will have 1 hour to participate. If you have prepared 
 
 ### Getting the IFO’s smart contract address
 
-You’re going to need the IFO’s smart contract address to join the IFO. You can find a link to the contract’s BscScan page on the IFO page of the [Digiswap website](https://pancakeswap.finance/ifo) underneath the Unlimited Sale section.
+You’re going to need the IFO’s smart contract address to join the IFO. You can find a link to the contract’s BscScan page on the IFO page of the [Digiswap website](https://dex.digiswap.finance/ifo) underneath the Unlimited Sale section.
 
 ![](https://lh4.googleusercontent.com/s8oMeBKH5SRo21DhAA9ZyAm3pTKRKBbrDY4zpdpc5mKlPTNtuezL\_fxCPc0dZvMlGfXy4IcwOmib1Gs-nc4Oe58v3UH7\_1JYuHM6GgiVERzkPQN\_viUF17dmPRFOYFHuXNrm78eZ)
 

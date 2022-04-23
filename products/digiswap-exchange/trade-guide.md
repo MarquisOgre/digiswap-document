@@ -10,7 +10,7 @@ Before you can trade, you will need a Binance Smart Chain-compatible wallet. You
 
 ### Trading on the Digiswap exchange
 
-1\. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
+1\. Go to the exchange page [here](https://exchange.dex.digiswap.finance/#/swap).
 
 2\. Unlock your Binance Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to Digiswap, you can view the guide to [here](https://docs.digiswap.finance/get-started/connection-guide).
 

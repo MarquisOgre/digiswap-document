@@ -10,7 +10,7 @@ Having your profile created will let you to share your NFT profile picture and a
 
 ![](<../../.gitbook/assets/image (160).png>)
 
-1\. Visit **Your Profile** under **Teams & Profile** [here](https://pancakeswap.finance/profile).\
+1\. Visit **Your Profile** under **Teams & Profile** [here](https://dex.digiswap.finance/profile).\
 ****
 
 ![](<../../.gitbook/assets/image (159).png>)

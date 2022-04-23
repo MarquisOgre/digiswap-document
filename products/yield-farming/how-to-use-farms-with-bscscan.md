@@ -12,7 +12,7 @@ Please understand that using BscScan to interact with contracts is not recommend
 
 To interact correctly with the farming smart contract, you’ll need the matching process identifier (PID) for your LP pair. For now, the easiest way to locate this is to check GitHub.
 
-1\. Open the [Digiswap website’s Farms code on GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
+1\. Open the [Digiswap website’s Farms code on GitHub](https://github.com/DigiSwap-Core/digiswap-frontend/blob/master/src/config/constants/farms.ts).
 
 2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'DIGIS-BUSD'.
 
@@ -38,7 +38,7 @@ You'll need to approve the smart contract for the LP Token you wish to commit to
 
 ### From the source code
 
-1\. First, open [farms.ts on GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
+1\. First, open [farms.ts on GitHub](https://github.com/DigiSwap-Core/digiswap-frontend/blob/master/src/config/constants/farms.ts).
 
 2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'DIGIS-BNB'
 

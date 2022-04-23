@@ -23,7 +23,7 @@ See for yourself:
 
 ## How can I stake DIGIS?
 
-You can stake your DIGIS in Digiswap DGSweet Pools. Visit the [DGSweet Pools page](https://pancakeswap.finance/pools).
+You can stake your DIGIS in Digiswap DGSweet Pools. Visit the [DGSweet Pools page](https://dex.digiswap.finance/pools).
 
 Read our [How to Stake in DGSweet Pools guide](https://docs.digiswap.finance/products/sweet-pool/sweet-pool-guide) if you'd like a hand getting started with staking.
 

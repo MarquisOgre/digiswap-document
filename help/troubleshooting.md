@@ -435,7 +435,7 @@ We're investigating the logic behind this issue. Meanwhile please try the workar
 {% tabs %}
 {% tab title="Workaround 1" %}
 1. &#x20;Go to “Collectible” page, then come back to profile page.\
-   If you can’t find the link, go to [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directly.
+   If you can’t find the link, go to [https://dex.digiswap.finance/collectibles](https://dex.digiswap.finance/collectibles) directly.
 2. &#x20;Retry profile creation.
 {% endtab %}
 

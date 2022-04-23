@@ -12,12 +12,12 @@ All our repositories are stored on [Github](https://github.com/pancakeswap). Mos
 
 ## Github repositories
 
-* [Toolkit](https://github.com/pancakeswap/pancake-toolkit): Contains a set of packages used to build the pancake ecosystem, including the uikit.
-* [Frontend](https://github.com/pancakeswap/pancake-frontend): The main frontend. It contains all the features that are not listed below.
+* [Toolkit](https://github.com/DigiSwap-Core/digiswap-toolkit): Contains a set of packages used to build the pancake ecosystem, including the uikit.
+* [Frontend](https://github.com/DigiSwap-Core/digiswap-frontend): The main frontend. It contains all the features that are not listed below.
 * [Voting](https://github.com/pancakeswap/snapshot-front): The community voting features.
 
 | Project  | Github                                                                                                   | Website                                     | Stack                                                                                   |
 | -------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Toolkit  | [![](../../.gitbook/assets/GitHub-Mark-120px-plus.png)](https://github.com/pancakeswap/pancake-toolkit)  | [🔗](https://digiswap-uikit.netlify.app) | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
-| Frontend | [![](../../.gitbook/assets/GitHub-Mark-120px-plus.png)](https://github.com/pancakeswap/pancake-frontend) | [🔗](https://pancakeswap.finance)           | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
-| Voting   | [![](../../.gitbook/assets/GitHub-Mark-120px-plus.png)](https://github.com/pancakeswap/snapshot-front)   | [🔗](https://voting.pancakeswap.finance)    | ![](../../.gitbook/assets/logo.png) ![](../../.gitbook/assets/ts-logo-round-128.svg)    |
+| Toolkit  | [![](../../.gitbook/assets/GitHub-Mark-120px-plus.png)](https://github.com/DigiSwap-Core/digiswap-toolkit)  | [🔗](https://digiswap-uikit.netlify.app) | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
+| Frontend | [![](../../.gitbook/assets/GitHub-Mark-120px-plus.png)](https://github.com/DigiSwap-Core/digiswap-frontend) | [🔗](https://dex.digiswap.finance)           | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
+| Voting   | [![](../../.gitbook/assets/GitHub-Mark-120px-plus.png)](https://github.com/pancakeswap/snapshot-front)   | [🔗](https://voting.dex.digiswap.finance)    | ![](../../.gitbook/assets/logo.png) ![](../../.gitbook/assets/ts-logo-round-128.svg)    |

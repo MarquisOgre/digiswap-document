@@ -12,7 +12,7 @@ It's simpler than farming with Digiswap's Yield Farms, because unlike the Farms,
 
 ## **Getting started with Sweet Pool staking**
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1\. Go to the Pools page [here](https://dex.digiswap.finance/pools).
 
 ![](<../../.gitbook/assets/image (18).png>)
 

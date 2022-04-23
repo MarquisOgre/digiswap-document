@@ -8,7 +8,7 @@ You can use the SafePal wallet to vote on open issues in Digiswap. Follow the st
 
 ![](../../.gitbook/assets/Safepal-1.PNG)
 
-2\. Enter the URL of the voting page in the address bar. If you don't know the direct URL to the vote you want to vote on, you can go to the [Digiswap voting page](https://voting.pancakeswap.finance) and find the vote from there.
+2\. Enter the URL of the voting page in the address bar. If you don't know the direct URL to the vote you want to vote on, you can go to the [Digiswap voting page](https://voting.dex.digiswap.finance) and find the vote from there.
 
 ![](../../.gitbook/assets/Safepal-2.PNG)
 

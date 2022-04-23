@@ -12,15 +12,15 @@ Learn [how to find IFO smart contracts](broken-reference)
 
 ## **How to participate in an IFO**
 
-Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find out more about IFOs.
+Visit [https://dex.digiswap.finance/ifo](https://dex.digiswap.finance/ifo) to find out more about IFOs.
 
 Before Sale:
 
-1. [Buy DIGIS](https://exchange.pancakeswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
+1. [Buy DIGIS](https://exchange.dex.digiswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
 
 During Sale:
 
-1. While the sale is live, commit your DIGIS tokens to buy the IFO tokens at [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo)
+1. While the sale is live, commit your DIGIS tokens to buy the IFO tokens at [https://dex.digiswap.finance/ifo](https://dex.digiswap.finance/ifo)
 
 After Sale:
 

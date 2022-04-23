@@ -12,7 +12,7 @@ Digiswap’s Prediction is a new product that we still consider to be in beta. W
 
 Before you can use Prediction, you’ll need to review and accept the terms.
 
-Visit the [Digiswap Prediction page](https://pancakeswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
+Visit the [Digiswap Prediction page](https://dex.digiswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
 
 ![](https://lh4.googleusercontent.com/GA0nTC9\_fGjLP2Bt0u7f1VV9Dj4BCHAmqlLSwwQPWTQzDOcKu1ZBqjVzYQOIalerZUac\_oBk2FYggw1-JpuTIQ4XPga7ZfUVPXOOikEySeYi4O-xr1O4XQFOVw8zilyRCfGkuXeO)
 

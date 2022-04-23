@@ -1,6 +1,6 @@
 # 🍯 DGSweet Pools
 
-![Ahh, delicious](../../.gitbook/assets/masthead.png)
+![Ahh, delicious](../../.gitbook/assets/syruppools.png)
 
 ### **What are DGSweet Pools?**
 

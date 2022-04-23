@@ -16,5 +16,5 @@
 * **BAKE/BNB \(1x Rewards\) - For this one, you can use Bakery’s LP token directly.**
 * **BURGER/BNB \(1x Rewards\)** 
 
-**\*\*\[**Get your FLIP tokens \(Digiswap Liquidity Provider Tokens\) HERE**\]\(**[https://exchange.pancakeswap.finance/\#/swap](https://exchange.pancakeswap.finance/#/swap)**\)**.\*\*
+**\*\*\[**Get your FLIP tokens \(Digiswap Liquidity Provider Tokens\) HERE**\]\(**[https://exchange.dex.digiswap.finance/\#/swap](https://exchange.dex.digiswap.finance/#/swap)**\)**.\*\*
 
