@@ -28,7 +28,7 @@ You may use Digiswap's Brand Assets when you are:
 * 👌 Linking to our official site or products, such as "Trade our token on Digiswap"
 * 👌 Announcing an official partnership, but only if you have **official approval** by a qualified member of the Digiswap team
 
-For information on other uses of our Brand Assets, please reach out at pancakeswap@gmail.com
+For information on other uses of our Brand Assets, please reach out at support@digiswap.finance
 
 ## What you may not do
 

@@ -7,12 +7,10 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 ## Contract info
 
-**Contract name:** PancakeRouter\
-**Contract address:** 0x10ED43C718714eb63d5aA57B78B54704E256024E
+**Contract name:** DigiswapRouter\
+**Contract address:** 0x991fe642F3606CC3cF0f7b7eAA8A8E75587Ab723
 
-View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contracts/PancakeRouter.sol).
-
-View the [Digiswap: Router v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
+View the [Digiswap: Router v2 contract on BscScan](https://bscscan.com/address/0x991fe642F3606CC3cF0f7b7eAA8A8E75587Ab723).
 
 ## Read functions
 
@@ -26,7 +24,7 @@ Returns the canonical address for [Binance: WBNB token](https://bscscan.com/addr
 
 `function factory() external pure returns (address);`
 
-Returns the canonical address for [PancakeFactory](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
+Returns the canonical address for [DigiswapFactory](https://bscscan.com/address/0x98813bD470A3BA8Da3D16488c58374e8dBc2FF22).
 
 {% hint style="warning" %}
 For explanations of the following, view the [Uniswap v2 Internal Functions documentation](https://uniswap.org/docs/v2/smart-contracts/library/#internal-functions).
