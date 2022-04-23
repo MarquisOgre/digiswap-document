@@ -1,6 +1,6 @@
 # How to Add/Remove Liquidity
 
-![](<../../.gitbook/assets/docs masthead (2) (1).png>)
+![](<../../.gitbook/assets/add-remove-liquidity.png>)
 
 "Liquidity" is central to how Digiswap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 

@@ -1,6 +1,6 @@
 # How to Use Farms with BscScan
 
-![](<../../.gitbook/assets/docs-masthead-21- (2) (1).png>)
+![](<../../.gitbook/assets/how-to-yield-farms-bscscan.png>)
 
 Since it requires several steps, using Farms with Digiswap can seem intimidating at first. This guide will walk you through using the Farms contract directly through BscScan.
 
