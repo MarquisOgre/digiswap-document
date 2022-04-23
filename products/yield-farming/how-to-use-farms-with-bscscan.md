@@ -50,7 +50,7 @@ You'll need to approve the smart contract for the LP Token you wish to commit to
 
 ### From the UI
 
-1\. First, visit the [Digiswap Farms page](https://pancakeswap.finance/farms) and search for your chosen pair using the "SEARCH" field in the top right. We're using DIGIS-BUSD for this example.
+1\. First, visit the [Digiswap Farms page](https://dex.digiswap.finance/farms) and search for your chosen pair using the "SEARCH" field in the top right. We're using DIGIS-BUSD for this example.
 
 ![](<../../.gitbook/assets/image (113).png>)
 

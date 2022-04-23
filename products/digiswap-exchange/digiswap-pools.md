@@ -29,7 +29,7 @@ For example:
 * The DIGIS/BNB liquidity pool now has 10.017 DIGIS and 10.017 BNB.
 * Each LP token is now worth 1.00017 DIGIS + 1.00017 BNB.
 
-To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [DIGIS Farms](https://pancakeswap.finance/farms), while still earning your 0.17% trading fee reward.
+To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [DIGIS Farms](https://dex.digiswap.finance/farms), while still earning your 0.17% trading fee reward.
 
 ## Impermanent Loss
 

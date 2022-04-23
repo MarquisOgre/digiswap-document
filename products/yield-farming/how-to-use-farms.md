@@ -28,7 +28,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 ### Finding your Farm
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
+Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://dex.digiswap.finance/farms) and you’ll see a list of available Farms.
 
 ![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts\_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm\_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp\_CqM)
 
@@ -55,7 +55,7 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 ### Putting your LP Tokens into the Farm
 
-1. Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+1. Go back to the [Farms page](https://dex.digiswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
 
 ![](https://lh4.googleusercontent.com/DbdKZLxqqILLzovnQ752Ed8VFtx3dTh-tZSCfOmQ2BZG7M6hvOLXDzUOYpGFJgNeIbOXBxyryvhhAtXXTppwtOev\_lUqZWikbxLQVJy6kqDz2y3Q360YAVHdLlNkm6yfdNBYi7tQ)
 
@@ -79,7 +79,7 @@ Type the amount of LP Tokens you would like to farm with into the field, or just
 
 You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
 
-1. Return to the [Yield Farms page](https://pancakeswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
+1. Return to the [Yield Farms page](https://dex.digiswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
 
 ![](<../../.gitbook/assets/image (34).png>)
 
@@ -106,7 +106,7 @@ You can harvest your Farm and Sweet Pool rewards together from the Home page. If
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the DIGIS waiting for you.
 
-1. Return to the Farms page [here](https://pancakeswap.finance/farms).
+1. Return to the Farms page [here](https://dex.digiswap.finance/farms).
 2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Cake earned”.
 
 ![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U\_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9\_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
