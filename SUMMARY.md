@@ -13,10 +13,8 @@
   * [Binance Academy Guide](help/binance-academy-guide.md)
 * [Contact Us](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
-  * [NFT Market Applications](contact-us/nft-market-applications.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
-* [Brand & Logos](brand.md)
 * [Roadmap](roadmap.md)
 
 ## Products
@@ -63,7 +61,7 @@
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
-* [Bug Bounty](code/bug-bounty.md)
+<!-- * [Bug Bounty](code/bug-bounty.md) -->
 * [Smart Contracts](code/smart-contracts/README.md)
   * [Digiswap Exchange](code/smart-contracts/digiswap-exchange/README.md)
     * [Factory v2](code/smart-contracts/digiswap-exchange/factory-v2.md)
